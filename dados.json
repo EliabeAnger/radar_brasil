@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-10-27T17:47:00-03:00",
-  "alerta": "Bolsa fecha em leve queda (-0,51%) e dólar recua para R$ 5,35 após o tombo de segunda. Dino (STF) manda a PF investigar suposto financiamento estrangeiro à campanha de Flávio; mercado espera o nome do ministro da Fazenda.",
+  "atualizadoEm": "2026-10-27T23:10:00-03:00",
+  "alerta": "Flávio Bolsonaro não entregou os passaportes no prazo; a PF os cancelou e não sabe onde ele está. Fontes ouvidas pela Reuters dizem que ele foi para os EUA, que vão lhe dar visto; Argentina e PF não têm registro de saída.",
   "eleicoes": {
     "candidatos": [
       {
@@ -78,6 +78,10 @@
         "texto": "Dino (STF) manda a PF abrir inquérito sobre suposto financiamento estrangeiro à campanha de Flávio, via a rede americana Rockbridge; os citados não tinham se manifestado."
       },
       {
+        "data": "27/10",
+        "texto": "Flávio não entrega os passaportes no prazo de Moraes; a PF os cancela. EUA dizem que vão dar visto a ele e à família; o paradeiro não foi confirmado oficialmente e deputados do PT pedem a prisão preventiva."
+      },
+      {
         "data": "05/01/27",
         "texto": "Posse do presidente eleito.",
         "futuro": true
@@ -86,54 +90,54 @@
   },
   "mercado": {
     "ibov": {
-      "pontos": 176184.45,
-      "var": -0.24,
+      "pontos": 175710.05,
+      "var": -0.51,
       "anterior": 176608.23,
-      "minimo": 175156.77,
-      "maximo": 178526.08,
-      "hora": "27/10 13h42",
-      "ts": 1793119372855
+      "minimo": 175710.05,
+      "maximo": 175710.05,
+      "hora": "27/10 22h25",
+      "ts": 1793150741283
     },
     "acoes": [
       {
         "ticker": "PETR4",
-        "preco": 53.34,
-        "var": -1.0
+        "preco": 52.79,
+        "var": -2.02
       },
       {
         "ticker": "VALE3",
-        "preco": 63.05,
-        "var": -2.07
+        "preco": 63.0,
+        "var": -2.14
       },
       {
         "ticker": "ITUB4",
-        "preco": 41.53,
-        "var": -0.41
+        "preco": 41.19,
+        "var": -1.22
       },
       {
         "ticker": "BBDC4",
-        "preco": 15.84,
-        "var": -0.69
+        "preco": 15.73,
+        "var": -1.38
       },
       {
         "ticker": "BBAS3",
-        "preco": 17.67,
-        "var": 1.14
+        "preco": 17.38,
+        "var": -0.52
       },
       {
         "ticker": "WEGE3",
-        "preco": 45.79,
-        "var": 2.83
+        "preco": 46.16,
+        "var": 3.66
       },
       {
         "ticker": "SUZB3",
-        "preco": 47.2,
-        "var": -0.42
+        "preco": 47.53,
+        "var": 0.27
       },
       {
         "ticker": "B3SA3",
-        "preco": 15.41,
-        "var": 2.26
+        "preco": 15.4,
+        "var": 2.19
       }
     ],
     "juros": [
@@ -177,7 +181,7 @@
         "var": null
       }
     ],
-    "acoesTs": 1793119372855
+    "acoesTs": 1793150741283
   },
   "combustiveis": {
     "semana": "Média nacional ANP, semana de 18 a 24/10/2026 (gás de cozinha e GNV: semana de 27/09 a 03/10). Variação desde o início do ano.",
@@ -227,39 +231,39 @@
   "noticias": [
     {
       "cat": "economia",
-      "titulo": "Ibovespa opera com volatilidade após choque com vitória de Lula; dólar cai",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3dhWno4Ulh3ZHlEbkVWQTlQUnoyZm9TYzlBU3pfQ3czVTJGWUdOR0pOQmt4XzRqTHJmQXg0T0tMeThVQWx5NzU0aVJzSDM2OUZsSW5SVmF3ekRNelItLWxCV29mNU9WNWh1QVlDY3lLeTJMOWxMaVBiY0toakhFaHJBdEV5WHY4QzR0R0ZKTXJQRHVKUGdGeFQ3OTlyNUczd1ctMg?oc=5"
+      "titulo": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
+      "fonte": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5"
     },
     {
       "cat": "economia",
-      "titulo": "Principais preocupações dos bancos são com as contas públicas e inadimplência, diz Banco Central",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnhNMlNJaGI0RDIwdkl4aGM5NmhmUW93QkFEdVlWRDdjZUtqQlR6WmRkb3NMTGxuamZUaWE1R1E2elRvcThvV25BcGtZTy1TaU9HdUFJSUlVZnYtTGg3WENpVjc1R09hNnVad1p1VVNNcUQ0aU1tQm5RaFZ3aWl0TnNkZTlHMHd4cmJjVXU4NlV4R19pUEQ4Um5RMUZEWjdBQjJmOEVkMHJjS3lHMloyTFNSQlJ0VjBxXzJ1OGZtT0ZoVzExZ054amd5YVc3MFJTWkIwcTZZZ3h0X3hYQ2dQTkNlQ3JXeDFxdWlfcTZqTXJqWVVhRGfSAYQCQVVfeXFMTlFlVzNVelRoYllvTjIxaE84LXQtMUJpR2ZXOTQ4b0JWWnlMN08ycGVGRF9jZEVDTGtNSTd0TXJ0ZHBIQ3dlNHBOdTFMQVVIZGZUVE04ejA3LWwxOWRyekN2WjlwekpySHNLZmxITzFHVVdPYTgxbXdyaXFMNk1tWDB2Zm00S3JsLXNqVWEzLVQtRklnRXhlay1zSzRLZmFEVWxBOEhqRkc0a0FJaGhCSUgzNTU4UFlyY0UtcFpJWkNqQXdRVGZEN1FFU3hMaHBrNGJobjBzcWNoeEdtYWsyZnZNZVg2Y3FUWThhdTg1bV9JSTBKU3ZoeDd4bTdHUkg3eWlBd0g?oc=5"
+      "titulo": "Durigan diz que vai propor ajustes fiscais para perseguir centro da meta",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDJzdHRrYzNqTjVqWFAzOUpNR2tOZWdXQzVaWnRUaXVDNFo3RG5oUTFaUmRfN2hSLUtHRjhnbHpIRDVobTJnUFpreW5UM2FpTEpPV09HVW8yNTJoNzY3SkVqYkVVc0ppTWN2cTR5ampvNl9IN1hPOUQzdXBpUENyTUg0ZG83UFpIZlZ1X0FxaEVfUnU4X0FGOEVJTWU1SjBZaklKSURwY0lmbzgzblZKdmNVMVdEMHJPdkludHI0eXdqaHJVb1o2amlTSQ?oc=5"
     },
     {
       "cat": "economia",
-      "titulo": "Durigan rebate mercado e reafirma compromisso de Lula com política fiscal",
-      "fonte": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlF1bUEya2RJd1BLRUZ1cVhiQjRTNWJwTWFPamZSUXZyOGNHcUowQXRxWXk3YWU2ajdwanc3eC1vSEFjTkZiR1d0VkNJU1QweWVCb0s4WHlXM1NBd2ltYmZGVkVYdk50ZklWTVRfWWZORHRfekc1Q0FfZUk2YTI1Tmtvc0dmNk0?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "PF investiga se Flávio Bolsonaro fugiu do País após Moraes determinar entrega dos passaportes",
-      "fonte": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeGRMRDZmaVRVSHNCWWp3cExXajVpdUVGV2dBemJES3dveVJkZFFxRTMzMWdoQm85S25GNjN5djUwa2Z4Q0VYY2RmMkswdzhwbWwxN1o0VkhZWWJDWU5sYmdPMkdmVU5DUFZidnVxaDNveW01eHBkbTFtRERqbHkzOUtSMDljSkVUNFcyRTUzUGpSM2lVS1d4TmZZUHFUX1NKM2J1Q0psTHROcWs5cTRvNEVsMDQwWi15QnhPUmdvLVJ0bkM5YkFNTzR3VUFVM1VTYkZtZXZR0gHbAUFVX3lxTE84LWlvRzBrX1ptM1JKY1JGU2hlNW1EMDQ2TmljM2JEcGw1ZWR2dE9QNS1PVFNMV0ZZa1NpWGRUSVJkb3l4aHlONHpkN0x5eXFYeFp0Y2x5QXo4YlhlTUZveUU0ZTZlSVZxbkVNYmZwUXUwSmdFTWhrNEtZLThiSEF1VnYyQXJadjVFeGI2Z0E3LThVQm45d2I2RFRhby16M2hnRFIya0pIaUpWVlRpTE5Ib2QtM2tFd2hBcnRFTnJUUFMzQmktOEMySW9aaTg0clRoTTBVZW5DNE9GQQ?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Durigan diz que não há definição sobre Fazenda e elogia nome de Fonteles",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUxCM0Z0WVM5SV9SVFFsazhFMk8wQ2xnd0VrM3c4WGN3Z2duTDVIcVZTSWQ3RVZSb3dxOFE3QWFITXZZc3hCelB2QWVENlJYUEh5Z2lkQkxBOWlsemhCNXJnRVZDMnBFWXZGQm0zbk9NSHhtNk1VU3lhOENkb1FQZHJ2Z1dWTG9JUnlRem5sTEYzckNiS3FBMk12SWNkTG54RmFmWkY1cDdMYXdTVDNROW5CZGtsMmE1QmlKT3VjakRsMnZaRWZrOVlyYw?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Dino manda PF investigar suposto financiamento estrangeiro na campanha de Flávio Bolsonaro",
+      "titulo": "Mega-Sena 3076 acumula e prêmio vai a R$ 320 milhões; confira os números sorteados",
       "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkU5Mm00R2t5bWREMjdJNzc4M2hJZTg3bDQyVWU1ZHNTSjdXazA5ZF9ZanhNQ092WldsSmdXenh5a21tTkVEUnk5SnYzM1FiN2c1dFFPbjhndFVkR2NTYjlGV1l4YTVsSm9ZZDdWOXpnQ01KY2E5dkktMHRwcUpSN09GeGNIamN6aE9BT3V4XzlnS3EyVFpZSTV5SDZkR0dPQjZUM1N4ajBoSXZ6MGJrSlo0Z1JXakpzWDA2V3Nuci1JWllHUlAwNHlFXzBkQVFxckhEStIB4wFBVV95cUxQLWZkQUdLVW9scFVTVUhweUhWMjRXQkhESTdpLXFFWUFkUk5PaVdlSWFUSmFnYlFpaXIzZ2NjQWRMV1NhZzBnTlhFLVpDbTBiQndad21nbFBLeEZ0eFFJOUx2Y1ljRVJpdzkweG1SM0NpT2hDSWtRb19HcFVnLTl1X05femEzWW1ubGhHUDdZTzdtWjJPaFc3TWk5ejZpeV9DMF96eHlLZUJ4N3RESXNVNjhmVDh5VjNNSUx4ZUVkMHkwR01aTGF1YTFCY2liMUxHSEZzdVNuSktRNDVOV0dLZ0FTbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmlUQW1zOC1FZnUwVFFNV1VYR3gxSHpnckNvQ2owdDNtRDBkeXR1SUw0UmdfbFdRWXd3QXVxYXdJMktmR0gyUVlWUDVEWTJBSjBITVBQUXNrbWN5Z3BpUDA1OWJ4dVFPc1hiQ2hGRkMtckx6ekd3TlZFajZObzh5V3pJUktfSDcyLXc0RDhsZ2JEaWFwTThwMmFDZWljdGJkQzJYUE54eVppOVlwZE1wN2IxcVA3MkFp0gHHAUFVX3lxTE4zbmJzWmpTZUtLVE5TZW1DVTd3WUFSR0VFN2s2UVdyeXZfTVVBdEpxUURnRXhibDgtX0VTUEJzREZYVHVwWUx0eEkzS1pURjFNYTZfN2d0RmdxWTkxS1dfVEFXY1Q4STZsWG1CMlB6a2RSbUJJVXVKVG5WSUZ0aXo5QXJRTWxLaUd4QWU5aWNnUUF5c1ZZajQ4akJCTlBvbkF3TC02NmIwb3dmYjdtcU02U2FZX2poS0NuUGdmdDdxWWpsVTVZQnc?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Trump autorizou entrada de Flávio Bolsonaro nos EUA, diz fonte",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTlEYWJsYmJLUS1sWXNPdHhqbk9WajI1bURyd0NmcW9CV29sQjZhWmdPQzctTEdJMk9lY09vd3ZMUW5tRkthUktBTld2S0d4THFmZXh2bjc0M2dRY29MRHI3SUpXUENQeGpIQzZTQVN2TElHUXpVQnFmX2hEQTN4TnhMSUhzeERnLVl5cU5HQ1NVdVRRN3hjVkptUzlrdEx3MG90UlpoUzc?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Fachin arquiva três investigações do inquérito das Fake News",
+      "fonte": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkJFUEl0elhQWl9CalMya0J4QTRCUkdiQXYwdkN2enQ2WVl0REFycWx2VGFXTVV3M1pWWmkyZ0dCUDdYMGYzR01uUG1OWUpIekp6ckJMTE40NmdmRmVTSERJRmw1UDMtclBYTU9rM2YyTGMwb1VkVjBzTTltQnZ6ZFdHeUdzN1J5YlI1aHpKRVZvU1F6YWRLOUx6MTE5MkUxd0wyWlRpczNMLUxrSGZrOGlZMUtoZ205?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Quem estava ao lado de Flávio Bolsonaro no discurso da derrota",
+      "fonte": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54V0xxVy1hc182LW9LdlRzelFQRVZ6SzNYZ2lvRFR6aTZYOF9kMmxXYlMtWHltN3BmZWlmZ0tlSkxSWlFDTVg3UTM2T3I0NkotWXNxUHg1dDYzYXowcmJwTDZnVQ?oc=5"
     },
     {
       "cat": "politica",
@@ -269,33 +273,33 @@
     },
     {
       "cat": "politica",
-      "titulo": "Política: Governo quer acelerar pautas no Congresso Base de Lula pretende votar PEC da Segurança, indicação para o STF e Orçamento ainda em 2026, antes da posse dos novos parlamentares; Centrão também articula mudanças eleitorais e no Judiciário",
-      "fonte": "Portal Terra da Luz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmZ0YXBLYWN4MFNjeDYzS2c0RnIwaUQ0N1FNakRiTnJmRmNGVW5mQ0UzZEVZWmFUSTBacFdfSkxRT3lkUEFBd0lQMUp4NDJ4MWtZUXhaU09OZi1OaEdJdVhCd3ptSGF4TFVUQlQ5TF9uWHRTaUJheGo1VThpZDJXU1poaFB6bjd6QjNUWnhQcU9FQkowcEtn?oc=5"
+      "titulo": "Governo alerta sobre notícias falsas relacionadas a programas sociais",
+      "fonte": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEU0REdXMlVyOHZKYWl3cnE4SXJzVzByOWZtX3kwU3EwMklZOEhlNjZCOHNfeXZESTRxVWQ3SlliNjdJVlhkMDlSaUIteHFiZUxGeEgxSFlNOEdybDdXeFFsUC1rQm16Y3N6Yy1sbDZUUUNyalBQTk9IaEFPUENpcVhEZDVFcGU3Z3dsdDkwNkc1eDBPQ3huLXVTMzVGOHJWNFI0WTV5OVdIS0dvOTRyTFppcnJZYWhUek1FX0YzYTNLTlk?oc=5"
     },
     {
       "cat": "politica",
-      "titulo": "Para facilitar aprovação, governistas defendem acelerar pautas no Congresso ainda em 2026",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdXNQMWl0WF9uTFpPQ0hQVWY2RHRLaFhLYlVSbHUzNFVaZWZQN3FiUjlKcU9qVUlfRmFsbjBMUFNpcnpaZTV2dmdzajVIcGRpQ0hSOHlFRlBlYWhxNl9VdmhDQlJoNGtWUEZHam1GZUQtNjcxTmlDOGhTMzBnUXVwSFNvWlVvdFhrRjFFZE9MczhOYU9GQkdyRkstQi1RTlpQUXB2Yjl6WVNUcURhMHRBRlZpd19nZzNTODY2OTlFVGlyeVRxQmx5eTN4dnU5cjkweTU2Q1dFTWdVTmPSAeoBQVVfeXFMTzFjY3NkR045RmtlZjNyU0hzTHdwVVljeXgwWmZFc3IyZ212TFhjMENzdldWZnZBTDhMSzlvNDNWZmg0MWxZVVdHMzRRY0xTSEJnTEFUTmk2Vk5Lamt0cUhYWmVUVVNvZ0JRTGJfdEk1X1BSVWljZGd1dFF1d3c5OG0zX3gwZEF6bVhyTXcxWjN1VFdHRVhscF9YQ0JjcU4tZk1RSElFenlTWktnb013blFWeHFtZEhFUUJHSzFyV2x6eEpPWGl4dGkxVEQzc1dObmk2MWxGV1dDeDVvb2RCeWNZd3pzSTIxYnZB?oc=5"
+      "titulo": "Seminário ‘Brasil 2027’ reúne especialistas para debater os desafios do novo ciclo político",
+      "fonte": "CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcV9ITFBnZXFEY3gxMnRxSEpzSThDeWh6cmcyR1VoOHVaZDJJblhpUk5GSnRHS3B1elViT3lDc2dJd1p3Z3hWLTdLcXNPRFVveXVEd25nc3MzV3RDU3ZVQVVLNnpCbGhHX0JCM0dHMUNhWWcySFUxSEpwQ1djLTUyUTBYclNyczE3M3hXOW9mX3JpVHhVcERzU1UxeS1DZjd2aVlkcVc3WV9obGR3WWtadkl0eVRGakx4Z0NkeFhsN05xZGRmekk0NzF3?oc=5"
     },
     {
       "cat": "eleicoes",
-      "titulo": "PL, partido de Flávio Bolsonaro, reconhece resultado da eleição em que Lula foi vitorioso",
-      "fonte": "JOTA Info",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORUh4aTBoMHBNNnhEMDVIN1JEQ250alpER1FrUTlvN3BURVlsM0g0OUVhSVUxdW5xckRuVzhjX0R3cXFLUGZCNGFvdXVmZ3I4MzVHZFZPajU3TFRFNGVxNTVCVDB6OUJYNUl6bWdWWVRuMXUteHZ5NGZScFc1dVdLWkdXTmdVR09JSTFvU253bHJJdUJjc3VhS09ua0hlZWpTcTVfcjBuQlZ3VHdoWFVNRll1ZDZZeEdqUTZmazZzRFFLSDNkVDI1OTlNSmQ?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Partido de Flávio, PL reconhece resultado da eleição presidencial | Radioagência Nacional",
+      "titulo": "“Ato vergonhoso”, diz Lula sobre fuga de Flávio Bolsonaro",
       "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVZCR2F5cU93aUpVanF5WldpazVldzZEMFNlMGdwbVI5ZWRVVzBPV0o5aVdyOWNLZEtLLW9SazNpdWJXTVVGTG84THd0SFp6dkdvSmJIREZWZjlvR1MwV1RyX1B1X2djUzdmUnpJYjIzQUUwOXpaQTNadklBQTAxRFZPQ3V1cDAxRkdJa2tka01UWTlVX2E4dmRUUExxdmRVUmJ0TVBEaktkXzRTM2d4VUxGOXFQS2dnTFA1REFiWmd1RTB3YjdEUEtGT3NJcVVPSWFzbGJ6RXgtQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3BjaHljS1Z5SWplcTBIQ01pclE1ZTB5ajJsNjlzZFpiQU5KNW5kZ3dRUUsxaHgtckhDdW43R2c4SDJ1Vm50U3BmYWRjeEVocVZ5djUtcy01Q2Q2MHlEMEpCMlJUWGtkMGZyMVFoOU51M1NRcm9YT05zTE1ZTU5YT2d5czhBbFBpU1dZWHc2anlOUXFPZ2w5N1lHbGNXakNwVUxOZThfdXdneHVkanJwTXNB?oc=5"
     },
     {
       "cat": "eleicoes",
-      "titulo": "A busca por culpados: aliados de Flávio atribuem derrota a 'salto alto', estratégia errática contra Lula e fator Marçal",
-      "fonte": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ3kxTFJaLU9aaW8xY2V3SFhSVW1VVXNZYnRpM1hPZW0zY1Q0bG9hYVVvMTBmaVB3ZkR1cDIxWkNBSXF0ajZfd3RzTzRRQkprUXVrejJVQm16aXl3akt6UTc2eGVRa1QwVFd4a0tnZWpiQXVkWlZhZ1hBWk5JUVQxb1VsLXhQYVlCNjRIMnNPRUVmM2N5amJkZUFWQTVzSmg2SjRqdldrOFpYalh3SzZVX2tSazEyeUk5elBtcXN1RWJuVnFOMTRSeG8zTXFPd3JlY2VNMWNVem5kSDNEeHRwVGxqMFdtNkZHUlZkM2dIWi1SdWo0dzliZnlTMk5CNkFRU01MbFZJa0x2NjV1cExCTkdKdnVXaVHSAaYCQVVfeXFMUDVCTHpib3hsSkMxQUc3N3FpcXpyRk5mVVBucW9lNHdjZmllVTZBdGdRSEdJUXFvS0FYdnYycFV0YlJrUEt0ZFdWcDMzeEc3VFg2WXM2ZFBxeVlKSW94ZkF1cEYxams5RlZUVXB2MjdSYVlzQkFkTEpZQUd0QkluNFZXeHI0UHpySjRSYzhQQmJaY3VNdW9DVElrMmpKenBpdHBJSDlmZE9CZXpId2MzTVNrVWtmbWFFNDZFTzVBZ0owS2pJV3NXdTZacktuNk9DcjJPdV9WekdZQXBQYVcwSzRvd19xbGotNS1ZbmJTajZlMldwSEYzT1Q0S2tmc3JnelRtQ1VldkF2U3hiZ002aGpad0NIMW5QaXM3c0JJY2NLUUJBVWdR?oc=5"
+      "titulo": "É #FAKE que vídeo de Flávio Bolsonaro chorando foi divulgado após derrota para Lula no segundo turno da eleição",
+      "fonte": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNURWbm4tR3hNbGprdnFVRG9YcDMxWllCY1BORkJ1YVVwbW9SQ242dHdhWVM4TXo2LW53YThvTkpEMmxRWnJMeHJiMXE3Q25abzZfbUlFMTE1SUx6TVlISjdnV1I0eEl6eDZGczlmczBNMDNLUGVveWZ4dGE3OTFpbUxDSVNkLXJVTTZtd1Qzb2tzN1hGU25WM0Fkb1pUR25Yd0Q2VUVzVFdYV1RNT201VkJYVC1NbFcyejNUdHloNTJkc0MxcEduQzl0VWhhbTNYX2dmMGJwUXo0elZqQzkwVnQ2VlpWdFRaTmZ6cEtFSGZrWFNVd2dhRjE3bEE0SGU3VWFBNm53QkFDUdIBmAJBVV95cUxON1lZODlELXZGQlFjcVRQaUNJanQ4ZHc5Nk44UzVRN0Y0M0JyLVRPeVFLNFFPa1FUMklPdGRUTUVVZWFOeHV0OXYzSVpjUER5U20yRXF3TzJjNjloNDFZdnNyRTlUaG1UWVRISllfY2JBN3dSM1V3dzY5UDRxREozSzdaTHpmNGdJRi1ySTUwRHpsOHBfYlAzaDZCN0NLejlNSk9iUjFlSlRuLVJQaUtjMVhxcnZTLUxiaTZ0X2dyT2cyb09pSjYwTjJRMlhJTTE0Tnc4VE16RS1jbVFDRlZfMEljM3RHSXc3d2lQUGtKTUdYczh1Q1lHYVNhN0dBWVQwR3NubjVTdmYyQTMxZE5CVHNPN3FHOE5o?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Flávio Bolsonaro venceu na região do Rio de Janeiro (RJ)",
+      "fonte": "Congresso em Foco",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3FWQVhLbUhWTGhsOGx5ZWd1VlRQZVN5YURsRTg4bHVJcG5RTTdXUDVBY1NER1Z4QUwtVU1zVVNfSWxiYmZPRXN3WU1OQWszdk5iOG5YQ0Q0UUtXbVUxNXRvZEpzRTFBRVVqR3BjVHpQYk00bnlqRXlvS05hT0Zrc2RkWWhuaHMwQzFUa0JjRFM5cXFKMVpqWVMteDYtRXBhRXp2WjNKYw?oc=5"
     }
   ],
   "indicadores": {
@@ -359,6 +363,88 @@
     "focusData": "Boletim Focus de 26/10/2026 (projeções coletadas antes do 2º turno)"
   },
   "historias": [
+    {
+      "id": "eleicao",
+      "tema": "Eleições",
+      "titulo": "Paradeiro de Flávio é incerto após ele não entregar os passaportes; EUA dizem que vão lhe dar visto",
+      "chamada": "Moraes mandou Flávio entregar os passaportes; o prazo venceu, a PF cancelou os documentos e o paradeiro dele é incerto. Fontes dizem que ele foi para os EUA. O que se sabe e o que cada lado diz.",
+      "data": "27/10/2026",
+      "inicio": [
+        "Lula venceu o 2º turno com 51,79% dos votos válidos, e o TSE confirmou o resultado. O PL reconheceu a vitória, mas Flávio Bolsonaro anunciou ações para cassar a chapa Lula-Alckmin.",
+        "Na segunda (26/10), o ministro Alexandre de Moraes (STF) deu 24 horas para Flávio entregar os passaportes e o proibiu de sair do país, num inquérito sobre suspeita de lavagem de dinheiro e evasão de divisas. Moraes citou uma entrevista em que Eduardo Bolsonaro sugeriu que o irmão deixasse o Brasil se perdesse. Em vídeo, Flávio disse que cumpriria a ordem e chamou a medida de intimidação.",
+        "Nesta terça (27/10), o prazo venceu às 11h sem a entrega. A PF cancelou os passaportes comum e diplomático e vai informar Moraes. Fontes ouvidas pela Reuters e aliados dizem que Flávio seguiu para os EUA com a mulher e as filhas, e o Departamento de Estado disse que vai conceder vistos à família.",
+        "Mas nada foi confirmado oficialmente: a PF diz que ele não saiu por nenhum posto regular de fronteira, e a Argentina afirma não ter registro de entrada nem pedido de asilo. Aliados dizem não saber onde ele está, e deputados do PT pediram ao STF a prisão preventiva e alerta da Interpol. Mais cedo, o ministro Flávio Dino mandou a PF investigar suposto financiamento estrangeiro à campanha de Flávio."
+      ],
+      "cadeia": [
+        "Flávio perde o 2º turno e anuncia ações de cassação no TSE",
+        "Eduardo Bolsonaro tinha sugerido que o irmão saísse do país se perdesse",
+        "Moraes manda Flávio entregar os passaportes em 24 horas",
+        "O prazo vence sem entrega e a PF cancela os documentos",
+        "Fontes dizem que ele foi para os EUA; Argentina e PF não têm registro",
+        "PT pede prisão preventiva; governo e aliados de Flávio se dividem sobre a decisão de Moraes"
+      ],
+      "porque": "Moraes viu risco de fuga num inquérito em que Flávio é investigado, com o advogado Willer Tomaz, por suspeita de lavagem de dinheiro ligada a empresas de apostas; os dois negam irregularidades. A decisão citou a fala de Eduardo Bolsonaro sugerindo a saída do país. Flávio diz que é perseguição e que nunca planejou sair.",
+      "outraLeitura": "Aliados de Flávio e parlamentares do PL dizem que a ordem de Moraes, dada um dia após a eleição, é perseguição política; o deputado Maurício Marcon pediu a destituição do ministro. Do outro lado, deputados do PT dizem que o descumprimento da ordem mostra risco de fuga e pedem prisão. Segundo a imprensa, até ministros do governo Lula acharam a ordem precipitada e temem que uma prisão transforme Flávio em símbolo de resistência. No PL, há quem cobre de Flávio um vídeo ou nota explicando onde está. Ele não foi condenado por nada; as investigações estão em andamento.",
+      "cenarios": [
+        {
+          "tipo": "base",
+          "texto": "Segundo a imprensa, a PF ainda rastreia o trajeto; se a ida aos EUA for confirmada, Moraes deve decidir sobre os pedidos de prisão e alerta da Interpol nos próximos dias."
+        },
+        {
+          "tipo": "incerto",
+          "texto": "Analistas citados pela Reuters lembram que Jair Bolsonaro também foi aos EUA após perder em 2022 e voltou meses depois; o caso pode virar atrito diplomático com o governo Trump."
+        }
+      ],
+      "saidas": [
+        "Manifestação do próprio Flávio sobre onde está",
+        "Confirmação oficial da PF sobre a saída ou não do país",
+        "Decisão do STF sobre os pedidos de prisão, ouvida a defesa",
+        "Julgamento das ações de cassação no TSE e posse em 5 de janeiro de 2027"
+      ],
+      "bolso": [],
+      "fontes": [
+        {
+          "nome": "CNN Brasil (o que se sabe)",
+          "url": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
+        },
+        {
+          "nome": "Reuters via Yahoo",
+          "url": "https://www.yahoo.com/news/world/articles/brazil-wonders-where-earth-flavio-154803613.html"
+        },
+        {
+          "nome": "Diario de Pernambuco (vistos)",
+          "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11727798-eua-vao-dar-visto-a-flavio-bolsonaro-que-deixou-o-brasil-sem-entregar-passaportes-ao-stf.html"
+        },
+        {
+          "nome": "O Antagonista (PL reunido)",
+          "url": "https://oantagonista.com.br/brasil/valdemar-reune-cupula-do-pl-na-sede-do-partido-para-discutir-paradeiro-de-flavio/"
+        },
+        {
+          "nome": "ND+ (governo e Moraes)",
+          "url": "https://ndmais.com.br/politica/flavio-bolsonaro-sendor-eua-stf-moraes-lula/"
+        },
+        {
+          "nome": "O Tempo (pedido do PT)",
+          "url": "https://www.otempo.com.br/politica/congresso/2026/10/27/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol"
+        },
+        {
+          "nome": "Gazeta do Povo (inquérito Dino)",
+          "url": "https://www.gazetadopovo.com.br/republica/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-a-campanha-de-flavio/"
+        },
+        {
+          "nome": "Terra (nota do PL)",
+          "url": "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
+        }
+      ],
+      "indicadores": [],
+      "atualizadoEm": "2026-10-27T23:10:00-03:00",
+      "atualizacoes": [],
+      "referencia": {
+        "dolar": 5.35,
+        "ibov": 175710.05,
+        "selic": 13.75
+      }
+    },
     {
       "id": "bolsa",
       "tema": "Bolsa e dólar",
@@ -455,128 +541,7 @@
         "ibov"
       ],
       "atualizadoEm": "2026-10-27T17:47:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Fechamento confirmado: Ibovespa -13,88% e dólar a R$ 5,40 (+8,21%); Citi e BCA Research rebaixam ativos do Brasil."
-        },
-        {
-          "hora": "11h",
-          "texto": "Pausa na terça: dólar cai para cerca de R$ 5,32 e Ibovespa oscila perto de 177 mil pontos; BC faz leilão de swap de até US$ 4 bilhões."
-        },
-        {
-          "hora": "17h",
-          "texto": "Fechamento da terça: Ibovespa -0,51% (175.710 pontos) e dólar -0,97% (R$ 5,35); analistas falam em alívio momentâneo, sem mudança de tendência."
-        }
-      ],
-      "referencia": {
-        "dolar": 5.35,
-        "ibov": 175710.05,
-        "selic": 13.75
-      }
-    },
-    {
-      "id": "eleicao",
-      "tema": "Eleições",
-      "titulo": "PL reconhece a vitória de Lula; Flávio mantém pedido de cassação e vira alvo de inquérito",
-      "chamada": "O partido aceitou o resultado, mas Flávio segue com ações no TSE. O ministro Flávio Dino mandou a PF investigar suposto dinheiro estrangeiro na campanha dele. O que cada lado diz.",
-      "data": "27/10/2026",
-      "inicio": [
-        "Lula venceu o 2º turno com 51,79% dos votos válidos, cerca de 4,4 milhões de votos à frente. O TSE confirmou o resultado.",
-        "Na segunda (26/10), aliados e o jurídico de Flávio Bolsonaro disseram que não vão pedir a anulação. Em vídeo, Flávio afirmou que vai pedir a cassação da chapa Lula-Alckmin por suposto abuso de poder político e econômico.",
-        "O PL, em nota assinada por Valdemar Costa Neto, reconheceu o resultado proclamado pelo TSE, mas pediu esclarecimentos e chamou de eleitoreira a ampliação de benefícios sociais antes da votação. Trump disse, sem apresentar provas, que a eleição 'pareceu fraudada'; Alckmin respondeu que a fala está totalmente equivocada.",
-        "Nesta terça (27/10), o ministro Flávio Dino (STF) mandou a Polícia Federal abrir inquérito sobre suposto financiamento estrangeiro à campanha de Flávio, por meio da rede americana Rockbridge, e sobre possível desequilíbrio entre candidatos nas redes sociais. O pedido partiu do PT; Flávio e os citados não tinham comentado até a publicação."
-      ],
-      "cadeia": [
-        "Faltam ônibus e há filas em algumas cidades",
-        "As duas campanhas pedem mais tempo de votação em alguns lugares",
-        "O ministro Zanin, do STF, prorroga a votação até 19h onde as seções ainda estavam abertas",
-        "Flávio diz no domingo que vai pedir a anulação",
-        "Na segunda, recua e troca a estratégia por ações de cassação no TSE",
-        "O PL reconhece o resultado, mas Flávio mantém a contestação",
-        "A oposição passa a se organizar no novo Congresso"
-      ],
-      "porque": "A campanha de Flávio argumenta que houve abuso de poder na campanha, citando quase R$ 500 bilhões em gastos do governo, e que a prorrogação, decidida por um ministro do STF, tratou eleitores de forma desigual. Segundo a imprensa, ele não apresentou provas e cerca de 20 ações de cassação já foram apresentadas.",
-      "outraLeitura": "O presidente do TSE, Nunes Marques, disse que a prorrogação não afetou a totalização, e o tribunal classificou como falsa a alegação de que fiscais do PL foram expulsos da sala de totalização. A própria campanha de Flávio tinha pedido mais tempo em cidades de SP, PR e SC por causa da chuva. O próprio PL reconheceu o resultado, e líderes de vários países, da esquerda à direita, cumprimentaram Lula. Juristas avaliam que pedidos de cassação desse tipo têm poucas chances. Do outro lado, aliados de Flávio e veículos como a Revista Oeste dão destaque a que o inquérito foi aberto a partir de um processo sobre outro assunto (uma ação de mineração de 2024) e a pedido do PT, adversário político; por ora, é só uma investigação, sem conclusão.",
-      "cenarios": [
-        {
-          "tipo": "base",
-          "texto": "Segundo ministros do TSE ouvidos pela imprensa, as ações não devem avançar, e o calendário segue até a posse."
-        },
-        {
-          "tipo": "incerto",
-          "texto": "As ações de cassação e a apuração da Polícia Federal sobre transporte de eleitores podem levar meses e manter o tema em debate."
-        }
-      ],
-      "saidas": [
-        "Julgamento rápido e transparente das ações no TSE",
-        "Divulgação das apurações da Polícia Federal, inclusive do novo inquérito sobre financiamento estrangeiro",
-        "Oposição atuando pelo Congresso, como defendem aliados de Flávio",
-        "Posse do presidente eleito em 5 de janeiro de 2027"
-      ],
-      "bolso": [],
-      "fontes": [
-        {
-          "nome": "Gazeta do Povo (inquérito Dino)",
-          "url": "https://www.gazetadopovo.com.br/republica/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-a-campanha-de-flavio/"
-        },
-        {
-          "nome": "Revista Oeste",
-          "url": "https://revistaoeste.com/politica/dino-manda-pf-abrir-inquerito-sobre-suposto-financiamento-estrangeiro-a-campanha-de-flavio/"
-        },
-        {
-          "nome": "Conjur",
-          "url": "https://conjur.com.br/2026-out-27/dino-manda-investigar-interferencia-dos-eua-a-favor-de-flavio-nas-eleicoes/"
-        },
-        {
-          "nome": "Terra (nota do PL)",
-          "url": "https://www.terra.com.br/noticias/eleicoes/pl-reconhece-resultado-da-eleicao-que-reelegeu-lula-apesar-de-flavio-contestar-derrota,b586497e727ee98d227fcef86c40c292ywvhtrkr.html"
-        },
-        {
-          "nome": "O Povo (Trump)",
-          "url": "https://mais.opovo.com.br/jornal/politica/2026/10/27/trump-fala-que-gosta-de-lula-mas-que-eleicao-brasileira-pareceu-fraudada.html"
-        },
-        {
-          "nome": "Fato News",
-          "url": "https://fatonews.com.br/2026/10/27/apos-derrota-flavio-diz-que-pedira-cassacao-da-chapa-de-lula-ao-tse-e-acusa-petista-de-abuso-de-poder-politico-e-economico/"
-        },
-        {
-          "nome": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico"
-        },
-        {
-          "nome": "Gazeta do Povo",
-          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
-        },
-        {
-          "nome": "Fundação Perseu Abramo",
-          "url": "https://fpabramo.org.br/tse-confirma-vitoria-de-lula-flavio-bolsonaro-desiste-de-pedir-anulacao-da-eleicao/"
-        },
-        {
-          "nome": "Imirante",
-          "url": "https://m.imirante.com/noticias/brasil/2026/10/26/ipolitica-tse-descarta-pedido-flavio-bolsonaro-contra-eleicao"
-        },
-        {
-          "nome": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pedira-anulacao-das-eleicoes/"
-        }
-      ],
-      "indicadores": [],
-      "atualizadoEm": "2026-10-27T17:47:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Flávio deixa de lado o pedido de anulação e anuncia ações para cassar a chapa Lula-Alckmin; TSE confirma o resultado."
-        },
-        {
-          "hora": "11h",
-          "texto": "PL reconhece o resultado do TSE, mas Flávio mantém o pedido de cassação; Trump diz que a eleição 'pareceu fraudada' e Alckmin rebate."
-        },
-        {
-          "hora": "17h",
-          "texto": "Dino (STF) manda a PF investigar suposto financiamento estrangeiro à campanha de Flávio via a rede Rockbridge; os citados ainda não se manifestaram."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 175710.05,
@@ -666,20 +631,7 @@
         "selic"
       ],
       "atualizadoEm": "2026-10-27T17:47:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Nova história: Alckmin aparece como favorito para a Fazenda; não há anúncio oficial."
-        },
-        {
-          "hora": "11h",
-          "texto": "Edinho diz que o ministro sai até o fim do ano e que a meta fiscal será mantida; Durigan afirma ter medidas fiscais prontas."
-        },
-        {
-          "hora": "17h",
-          "texto": "Fonteles ganha força para a Fazenda e Durigan o elogia; decisão deve levar semanas. Galípolo descarta ir para a Fazenda."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 175710.05,
@@ -694,7 +646,8 @@
       "data": "27/10/2026",
       "inicio": [
         "A Selic está em 13,75% ao ano, depois de cinco cortes em 2026. A próxima decisão do Banco Central é em 4 de novembro.",
-        "A inflação de 12 meses chegou a 4,58% em setembro, acima do limite da meta (4,5%). Depois da eleição, os juros futuros longos saltaram para perto de 15,2% ao ano. Nesta terça recuaram com a queda do dólar e a ação do Tesouro, que cancelou leilões e recomprou títulos: às 15h o DI jan/27 estava em 13,64% e o jan/33 em 14,93%."
+        "A inflação de 12 meses chegou a 4,58% em setembro, acima do limite da meta (4,5%). Depois da eleição, os juros futuros longos saltaram para perto de 15,2% ao ano. Nesta terça recuaram com a queda do dólar e a ação do Tesouro, que cancelou leilões e recomprou títulos: às 15h o DI jan/27 estava em 13,64% e o jan/33 em 14,93%.",
+        "À tarde, o presidente do BC, Gabriel Galípolo, disse que o banco não comenta eleição nem Copom e que pretende anunciar ainda em 2026 novas medidas para quem está endividado em crédito caro, como o rotativo do cartão."
       ],
       "cadeia": [
         "Inflação acima do teto da meta",
@@ -753,27 +706,18 @@
         {
           "nome": "Seu Dinheiro",
           "url": "https://www.seudinheiro.com/2026/bolsa-dolar/lula-venceu-e-a-festa-da-bolsa-pode-acabar-o-que-esperar-dos-investimentos-agora-miql/"
+        },
+        {
+          "nome": "O Povo (Galípolo)",
+          "url": "https://www.opovo.com.br/noticias/economia/2026/10/27/galipolo-bc-pretende-publicar-medidas-adicionais-relacionadas-ao-credito-ainda-em-2026.html"
         }
       ],
       "indicadores": [
         "selic",
         "ipca"
       ],
-      "atualizadoEm": "2026-10-27T17:47:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Focus de 26/10 mantém Selic de 13,25% no fim de 2026, mas foi coletado antes da eleição; juros futuros longos sobem para cerca de 15,2%."
-        },
-        {
-          "hora": "11h",
-          "texto": "Juros futuros abrem em leve queda nesta terça (DI jan/28 a 14,73%); Fed decide na quarta (28) e o Copom em 4/11."
-        },
-        {
-          "hora": "17h",
-          "texto": "Juros futuros devolvem parte da alta: DI jan/33 cai para cerca de 14,93% à tarde, após o Tesouro cancelar leilões e recomprar títulos."
-        }
-      ],
+      "atualizadoEm": "2026-10-27T23:10:00-03:00",
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 175710.05,
@@ -859,20 +803,7 @@
         "dolar"
       ],
       "atualizadoEm": "2026-10-27T17:47:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Subsídio de R$ 2,12 por litro venceu em 26/10 sem renovação anunciada até agora; Brent chegou a US$ 117."
-        },
-        {
-          "hora": "11h",
-          "texto": "Governo prorroga por 30 dias o subsídio de R$ 2,12 por litro; sem isso a ajuda cairia para R$ 1."
-        },
-        {
-          "hora": "17h",
-          "texto": "Novo levantamento da ANP (18 a 24/10): diesel S10 a R$ 7,32, gasolina a R$ 6,49 e etanol a R$ 4,11 em média."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 175710.05,
@@ -1080,7 +1011,7 @@
     }
   ],
   "robo": {
-    "atualizadoEm": "2026-10-27T13:42:54-03:00",
+    "atualizadoEm": "2026-10-27T22:25:43-03:00",
     "ok": [
       "BC selic",
       "BC cdi",
