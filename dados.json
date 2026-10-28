@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-10-28T11:55:00-03:00",
-  "alerta": "Avião com Flávio Bolsonaro e a família pousou em Miami às 10h25. Ibovespa cai cerca de 2% e o Fed decide os juros dos EUA às 15h.",
+  "atualizadoEm": "2026-10-28T17:50:00-03:00",
+  "alerta": "Em Miami, Flávio Bolsonaro divulga carta em que se diz \"o verdadeiro presidente eleito\"; PF diz que ele não é foragido. Fed mantém juros e Ibovespa cai perto de 3%.",
   "eleicoes": {
     "candidatos": [
       {
@@ -13,7 +13,7 @@
         "id": "flavio",
         "nome": "Flávio Bolsonaro (PL)",
         "pct": 48.21,
-        "situacao": "Contesta o resultado e anunciou ações para cassar a chapa Lula-Alckmin. Deixou o Brasil sem entregar os passaportes, passou pela Argentina e pelo Equador e pousou em Miami (EUA) em 28/10."
+        "situacao": "Contesta o resultado e pede a cassação da chapa Lula-Alckmin. Saiu do Brasil sem entregar os passaportes e está em Miami (EUA) desde 28/10, onde se declarou \"verdadeiro presidente eleito\". PF diz que ele não é foragido."
       }
     ],
     "segundoTurno": {
@@ -98,6 +98,18 @@
         "texto": "Avião com Flávio, a mulher e as filhas pousa no aeroporto executivo de Opa-Locka, em Miami, às 10h25. Não há pedido formal de asilo confirmado nem nova decisão de Moraes."
       },
       {
+        "data": "28/10",
+        "texto": "PF diz que Flávio não é foragido nem alvo de mandado de prisão e que não há registro oficial da saída dele nos postos de fronteira do Brasil; a corporação apura como ele deixou o país."
+      },
+      {
+        "data": "28/10",
+        "texto": "Governo diz ter registrado 45 casos de violência política contra apoiadores de Lula desde a eleição, com 10 mortes, e aciona PF e PGR; os casos ainda estão sob apuração."
+      },
+      {
+        "data": "28/10",
+        "texto": "Em carta divulgada nos EUA, Flávio se diz 'o verdadeiro presidente eleito', fala em fraude, nega ter fugido e promete liderar a oposição de fora; o TSE já certificou o resultado."
+      },
+      {
         "data": "05/01/27",
         "texto": "Posse do presidente eleito.",
         "futuro": true
@@ -106,54 +118,54 @@
   },
   "mercado": {
     "ibov": {
-      "pontos": 175710.05,
-      "var": -0.51,
-      "anterior": 176608.23,
-      "minimo": 175710.05,
-      "maximo": 175710.05,
-      "hora": "28/10 05h37",
-      "ts": 1793176657782
+      "pontos": 170936.97,
+      "var": -2.72,
+      "anterior": 175710.05,
+      "minimo": 170297.16,
+      "maximo": 175711.22,
+      "hora": "28/10 13h06",
+      "ts": 1793203608283
     },
     "acoes": [
       {
         "ticker": "PETR4",
-        "preco": 52.79,
-        "var": -2.02
+        "preco": 52.48,
+        "var": -0.59
       },
       {
         "ticker": "VALE3",
-        "preco": 63.0,
-        "var": -2.14
+        "preco": 61.54,
+        "var": -2.32
       },
       {
         "ticker": "ITUB4",
-        "preco": 41.19,
-        "var": -1.22
+        "preco": 39.87,
+        "var": -3.2
       },
       {
         "ticker": "BBDC4",
-        "preco": 15.73,
-        "var": -1.38
+        "preco": 14.89,
+        "var": -5.34
       },
       {
         "ticker": "BBAS3",
-        "preco": 17.38,
-        "var": -0.52
+        "preco": 16.88,
+        "var": -2.88
       },
       {
         "ticker": "WEGE3",
-        "preco": 46.16,
-        "var": 3.66
+        "preco": 47.22,
+        "var": 2.3
       },
       {
         "ticker": "SUZB3",
-        "preco": 47.53,
-        "var": 0.27
+        "preco": 48.22,
+        "var": 1.45
       },
       {
         "ticker": "B3SA3",
-        "preco": 15.4,
-        "var": 2.19
+        "preco": 14.33,
+        "var": -6.95
       }
     ],
     "juros": [
@@ -169,8 +181,8 @@
       },
       {
         "nome": "DI jan/2031",
-        "taxa": 14.99,
-        "var": 0.079
+        "taxa": 15.11,
+        "var": 0.199
       },
       {
         "nome": "DI jan/2033",
@@ -197,7 +209,7 @@
         "var": null
       }
     ],
-    "acoesTs": 1793176657782
+    "acoesTs": 1793203608283
   },
   "combustiveis": {
     "semana": "Média nacional ANP, semana de 18 a 24/10/2026 (gás de cozinha e GNV: semana de 27/09 a 03/10). Variação desde o início do ano.",
@@ -247,75 +259,75 @@
   "noticias": [
     {
       "cat": "economia",
-      "titulo": "Dólar cai quase 1%, e Ibovespa recua após tombo eleitoral",
-      "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcW81N09vSURHdzdyclV3eWxGakV2M0ZZNmtoeFVIYUhfWjZPXzhqRE1hajRTX05wX3A3TEZ5X0lIYXU2QzFBS2JaOXJybngzR2dVaTRMblk4Qm5Ja0dJVWNfTkFJV01PVUtOYVI4MUd2RE04ZFlQNklPR242cU50OFJ4Qm9nTlNjWnR3QWRVUndQNHhTSWNQbTBib1hHYVJ2czdKWHg1TW1YcDk3VXdsOWgxMA?oc=5"
-    },
-    {
-      "cat": "economia",
-      "titulo": "Governo prepara texto para atingir centro da meta fiscal, diz Durigan",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGJFVVpLQmhGYWgwR0VudF9pSGVOLWE2azI4VFdfZmRpbXF6NWNUenVBeURxWUVUMkpiaTdzZklnT09yX28xc0h6V2ZsNXZDTUNSemZPZFduc2haNVQ1aWNhMU1PallaU01VbnphNjN4NE1OVFBtOTFUSjVENnpvYnd5YTBjZUhMZjVNdHBRUk1BN2xWZUZGdzM4YU9nYjhsQVpzQXhDVnZzTHVEbHp6eDlR?oc=5"
-    },
-    {
-      "cat": "economia",
-      "titulo": "Mega-Sena pode pagar R$ 320 milhões nesta quarta-feira; g1 transmite ao vivo",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUJPRHAzc1hJbVZ3R004cDNhaDBQQ3BlRFhaTHdDNm8wdEVNX0dEZEVXbG8xa1B3aEpKUVV5MGVUbkNqaVJId3d5Q3RlVVJGS1pBMlVVdWd1UlNmV09VV2RNSHZuaDVFaFN6cjU5cG4weHUyd3I2WEdXcWg1TkR3NDRveVJLSGxjR3FKS3FyS09Hc19LRE94U3hHMTh0REhOYXloRGctTW11ZGVKZWxrOXZsRWNkZHRBcl9hS2F6UE1zdG8tVkJSZktpVE1hSDhCWXU5Rk530gHkAUFVX3lxTFA5QW9SbDE1YmltOVd5YU5VczltUmkyM3ZYZm5NLWZIVUt2SjdfQ3pxaUZaSDE3VHoyWWExNnZkc25JTVBkYXdjYkdyRC1fZGV1MjBiTnVWWDgzZkFfQzNwdDBVQlF5V2I0RkdfZmFvY2tmQW94TnN1RFU3eU1DUEI3OGE3d0FEWVo3Q19DMk56LVZJNkY4VVd4TVJtWGQ3QldzVzVwX3J3ZXJDcDlJTTRYWk83TnJEVUVQRG1hMHJWc1lCYUtZakptVDlSY3d0ZV9RRnFVSXE3cEZISmhSSF9peVRxNQ?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Flávio Bolsonaro e família cruzam fronteira e seguem em voo privado para o Equador, diz Migração argentina",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY1lZZnFYTjNQZWxJcjNKdVp5UVBJM3ZZZ0hEVUQwYWl0cElDNTZIQzdPMV9sYS1tYi1ZaW5LWmxUT2o4RUtCOGhrRmYtN3YzQ3RLd3R3RTZRcE1XTHlGamRaTG5xT0NJRE9oVGtUUHY4VVFZR0RTdmYzc3htMEZWSG9WSE55SXBPdV81QV8tdTRQU0VYeHJXSmQ5X1REdFFEbk9iamFBNlJzZEdvN0FaN1lCUEt6SDhYMUNjZXVZaVRBN09XZUw1aXJtVENvV3RoTW4zU1poM00wVzhmZ29hSUZTbThDbzZtdFFvM0ZBLUZ2NnNCSTFR0gGGAkFVX3lxTE0weDFTbmtlaGhxcl9IejdkQ25xNnQ2QWlWMG1CV2p2MHNYUk1jbXdEWUxnZ1BHNHd6TjV1em5OUy1sQWdYMklNcG56WFVtaDFXX1NrenhzWW5TQTFfRGtadkJEaVJnSGlEdER1V1ZkQV93eFppakxYYVhINUdjbGtIcXFvWHNZMG52OFhDdlEwbzBta1FtYTdleF9uMndCQWZzYkQ2eFQyN05kX29BR25qeExmdzZzNjVsc1VlSjlKMU5FNVZraFRHeHBJTUZWM0h6UkxZOVhXcXlUOU5Ya0FmMWYyY2k4V2JHTTBTVUlpZTIxTG1rZTg5UkkyU1ZLak1mR2FWRmc?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Fachin arquiva investigações contra Eduardo, Malafaia e Fiuza",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkwwVWV4MXhON2ktTFNhOGwzcF82cVp5UEhpandvcXFtQ1lvQ1Q0aGZaYmZxVEd1ZDJkTWFnUkNEcTNxQkh1VUlsZzV3bUp5SFNaUWl2ZzhyR2dBX2xmQmZKMFU5cmNUV3pPUTlHajV5QVNmMkljbWtVeVVqMzYyUXBjaEJZZURjMGZtdWdCRGRXWTBpLS1CdFBhRXgtYWtIYkJESjN3?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Trump volta a falar em fraude nas eleições brasileiras",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW5DNGFHRkVWaUZsMkZ0ZEk1N0hYdElDV0dNNmFGbXM2YnRBZUF3R2hCdFNjbGZxVkRuV3hCTVNvVkhIeXJ3cEZENWZEY1Faa1o1eGpIT05nLXdYY0gzVFZ5ek14Mm5pdzBZZGoxdFotZFFBcGk3UDFCalRicGNpQzJUODZtdTVOdjhrOE1heVUzU0cyaWJVcHpCazJ4bUZVVWxYcFlB?oc=5"
-    },
-    {
-      "cat": "politica",
-      "titulo": "Motta e Alcolumbre intensificam articulação para reeleição no Congresso e contam com apoio de Lula",
+      "titulo": "TCU propõe alíquota de referência de 11,3% para CBS em 2027, que substitui PIS e Cofins na Reforma Tributária",
       "fonte": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSlVfeXZ2c1A2VFVObTdrdWN2RU1MR3JlQWdsT3p1S2FmZ0RqUHRyMV9hOUJEcDJIV2hZUWQzTDRDRTJOdl91dHIzbnl2WlVvQWl4UkwwbW94djRoZkltSU42NldzTFJJRmFDcVkyV2Zhc0NvZFhlWkRRd09ickIwOFRicGdfM3BMRV81emlTQ0dNajNyLVNmVWtjTkprYndiLTIyT2hSOVlHNldaMG9GVnpHTTZvVC0zLWgtNzhhaXFrZGxWY1NKNUc3MmVfQXpRZUFVQzJIYTJvSzdqTUNaT0RxbW9fckZDYjUtaV9R0gH8AUFVX3lxTE84MDNTOUNjZDRBaVdSWGxQQlRQTjl2aERhMEI4N3FmYURkeEQ4Z2pIRWUyeFBBNWdiNkEtYTN6enVBd1IyLVB5N2kyeWdKeGZNVXBKMlFkbURLeFEzaUZpVU9pU2lnM2JmUjNkZHR4azZBaDBLTDFJOVFnTGZuNnpGdnlCZ3N5YWtTSVM2bUFoM1hIazBmYWFLTVE1UFR6WjB6eUh6dzVtX0NybkNhbDd4YVJoZ2FrUllodDBzOEQ2cE1PZXFPdVV6NnRhMFQxZWh4UGt6YlpJN1UwQzFQWUZYWEpKV0h2ekJabi02VVlnM1ZuSjRBS3YzaEJ3cw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1M5SnhCZTcxM3ctamhaQ3hac3NPV2JfdUJNTXZWNGhhVk13Skw3bGlVdTJnTFRQQUhSOXgzUkJOczdMdFNNUXFfNTh2YkR0bkpfLXJ0VS11QUxjRWtJY0RHWXdNOWFpQVMteGNmWEduOGpqREFubVhYS29LS2NLNE5KT3ZlWERkSnBDWHVnWDQ2a25GOE5KTHhVNUhMMnJGWko5cmZBS0ZzYXNYMWZrbkJiN2dWMW1kRHc1VFpnRDN3cUNoOEo3NHdzMDhNMkY2OTVzR3lNVVZWRlkwaTZVQXBTT2fSAfMBQVVfeXFMT0o0ZFNBS1JqMFdhU0hOUHhfendmLTRsRnZXQ19fYjZqNEhnbEZXLXdSTUxHdUxZbjFIdFIxd1ZXam9fV2pQZlM2cHJGMzV0S0J0emcyYnZTOWp1LTJOOGliUTNiX3FwVkF2VjljLWxfZE5pMVptYk9xdDFBa3FVWURfVTNNemFrQWhRNUUyTmU3V3diaHJMUGhYLWZVZFpTQm9WaXI0aFJUUXZMZkhaa2htbEc4YlZxS0plZ0M1SGpFQ1d1a1NoM2IzN0d6VW9ONEZ4LVhzaVpoWkJlSHVkMnlIdHZzRGxEdWphVnJuN1JRdzFZ?oc=5"
+    },
+    {
+      "cat": "economia",
+      "titulo": "Risco fiscal de Lula 4 divide economistas após queda da Bolsa",
+      "fonte": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVljc0d3dnV0YXJJUVp1by04MUw2ZXlsY2lHR1pMQWptUGhXSDR2SUVWMXI0dFdCQUtPZ0J2ZHlLMEg2Y1o3TWpCNEVfdlhmaVpUV2RXazIyWGVzTGVNNGpkTl9PT1lzZUlqdVBSYmM1cjdTWkwzY092M1dZRV9HWFhWcDZqVy1qZzVOV3A5dEp6Q1RlaHZGRG9sMF9rcGhLb0JhbUJ3dGRpdjQ3UmhTVjRNS0RuWmU0eUl0YllXR2x0Yms?oc=5"
+    },
+    {
+      "cat": "economia",
+      "titulo": "Santander Brasil (SANB11) tem lucro recorrente de R$ 2,9 bi no 3T, queda anual de 28%",
+      "fonte": "InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWpjX2w0Wjlka3hILUdxTmlnNDBfNTdkVm9ZZDVtQThNX3F3ZlN0Ym1VMFI2bDBPWTRUMUZqVlVHbTZjd1Rsd1hLdUozOVhONWdwS2dfMXdpTC1SSExkMm1JOXNlT3hjbzlDYzg3bTB0N3Joc3F3dDU1R21PM2tFdkhZUHg4bm9MazBWUVZUUk1nak8w0gGaAUFVX3lxTE1rV2RlNU1TY1VlUjFjTzZyRk9CSkx4U2tmYlhwTkQ3R1lELUVXM1FCbG1tMG9NdXkwS2dFNk5UaHotTTZqNWxNNmd6THk5c3BBd25YaVlUbFZhbU45ZW5za25iem5fcVZHU1pUZnF4U29EOEZuWHVMZW1SdGdOX1UyX0RuMGVTbk9YN3NBb0dzZnFOZU1kdjIwWnc?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Flávio Bolsonaro chega aos Estados Unidos",
+      "fonte": "G1",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3ZyVFlPbFdyMHNXUnp0dmg4bGhCcGt5QU56OWZ5VTZicmctcHZQZlhDbWVjWHZxandsYUVaNUk5Y08xc1ZCWTZ1bUJ0V3hkUEZfSWRFLXhLSHFsbnhoS25nbXJ6dGRGY1JnMDBybE1vQnpFQUljcHBXcDdaX2JzOVlBd09pU3NTaG8zN2trMNIBngFBVV95cUxNY3IycThMYjdoZzl5X0R1NlF1M191LU1XNERRNmI1SlFSNzhWZW5Gc1gwRC1NX2pXVjVvdGdPTUdjcFI3aC1DenhDMFpCanMxV0NyZ2dPTDFXOTlvRjh0WUV3UkFORm91cDB2SzYyakR5SkMwNzQ4WWF1SF95WXdjQnR6N2t4bTEydERoQnhBUXc1VEtnbHM2bnc0Snlzdw?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "União Progressista declara apoio à reeleição de Davi Alcolumbre",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblJKVU45TU9tblZUNnBWbFk1ZlNvUlNMbUpvbGdkTkxaQUhPUFFyb3NWdDlFZUFHNTlSdDdrX1VhTjJxSzNUNV9qbFA3djJmRUh5UDhHRkNkMmF3eVFRbkM2YWNfWHRzTm55eFV4YTlhem1GRjVvRVQ1VzVlaFZ4WEZQMVNDV1BSX0VsZDVjZ2lUOWZReVpGR0NnNVdyMmlEMTE5V0t0V2lQSHU0?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações",
+      "fonte": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbWZ3S3FpdjNNQlFkXzFUUndnS2pNR0JEcXpyeGRJRTNMSzdCYTV2ck1OV0pPMmpaT25HbUUyMWxKc284QUhrRElVRUFlMldZa28wZzRsNG4zbGlRQWdyZ0Y4YU9pR0JESjViS1AtRC1Iek53eTdkTmFZWk9PNmhraDJnTGRpOXZDcHFpMVZmWThTYjVXSFBjV0FfTkE5UGFGU2xxQ01TN2JKTk54YVp4TEVycHBoYVFUQUpHTUVYZzNWUWw1NGxPNWp5RWJ2VElPQnhEbkhZR0FVbjFBVDRSNzFaYkpvc1pRR0oyLW1jYzhKLUJQOGkxeNIBhwJBVV95cUxPR0ZhN1c3MEVkdWxDbUQwUzY2VTN4VDZoMG5PbnduVms2X044WFlKWGpDWTh1MFVCbmh2dDIwcU5JVlloM2dEWGhPd2lPX2FrdGI2NGM4cXhXRnZlbGFzTTRIUVlUclBwREpRdkFCSG9UbjFSOGtxTW1ObGMzRjdic1BmdTkwVDl5cHN1cE1qeXpXTFdvc2M0WEpPQVA5dUpuSXhWS2UtdTVtWlJHMVBVaUxZOTM3akJRaC1wMkhkeU4xNXhfVlo4NFJzdWFKSmFHRklCZUJORTlyZnp6WUR0NHR3UDR1WDNpMm5IOHNlZWJyQllpZ1g5V2doRVlzbXh6VjVfcVRLUQ?oc=5"
     },
     {
       "cat": "politica",
-      "titulo": "Governo alerta sobre notícias falsas relacionadas a programas sociais",
-      "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEU0REdXMlVyOHZKYWl3cnE4SXJzVzByOWZtX3kwU3EwMklZOEhlNjZCOHNfeXZESTRxVWQ3SlliNjdJVlhkMDlSaUIteHFiZUxGeEgxSFlNOEdybDdXeFFsUC1rQm16Y3N6Yy1sbDZUUUNyalBQTk9IaEFPUENpcVhEZDVFcGU3Z3dsdDkwNkc1eDBPQ3huLXVTMzVGOHJWNFI0WTV5OVdIS0dvOTRyTFppcnJZYWhUek1FX0YzYTNLTlk?oc=5"
+      "titulo": "Pesquisa da Unicamp analisa expansão dos evangélicos no Congresso e a formação de suas escolhas políticas",
+      "fonte": "portalporque.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNTY3VXJ2QVhkS0FhZ29vdEhPZlBkX1Rmd0dyckN4YTFfZF9Jd3NHUnExTTE5RHVfd1l0Sm84RkZUMFkxMzFsWGhwRDF5eXNQd19uQXpzWWVUQ1JFQnloMTRVbW83R2xWQ3R6bW5rLVExRmNqWWo5OFVJTHlmU1V3NEUyS0JILTdaT0tuRUNOZC14R3JlencwUVNxUm83VDdQXy1GUDJBbXBYdXZmVDNVTC1oclVpbW1fQklMYmpyaW1YWHVkRGxRX05PX0JvSWpXUXYyUDlLSTRMczM4M1RhaA?oc=5"
     },
     {
       "cat": "politica",
-      "titulo": "PT se mobiliza para EUA reconhecerem resultado das eleições",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1NMUGJ2ZGdMVVg1WGEyNXVFUzBJelJDcThiV3F4OXdOREI0b2NkVXhOeEtGemdtQTBKTlFvbEtUZm1OVUVUX00xengyWTVuMkZyWkR1RmxvVDFNLWZMcUNhOFVsTFNXbUd1UGo2VzVsVEE4bWdRQUwxMy1hZFVDZDRnVEhheVpHalVjOXJhZnp4OXRpQUoxWWJkallGT0k?oc=5"
+      "titulo": "Lula terá Congresso mais à direita e enfrentará desafios para governar no quarto mandato",
+      "fonte": "Brasil 61",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVl9LWDhKdkJoTVlnNm1BNm1IYXkycUdNdF9xNzVOS0V1TElLRWNVZVljV2NJQW44RVJWWlQyMTRQQWp6S3ZrMnhBcHVLUjR1aHd3cjdaT0s2LWxrMU03VnhseTkwT00yaWhMSHpHMUFwYkxpdkMwYjVBS2MzdTliUWljU1FrNGs2VHd6b01RVlZQYll1NXpINU11RmZMOFBQRmdzd1N6WVpZMTN4T3cyaFotSHBuS2V0b0t5ZlljVTfSAcYBQVVfeXFMT09ER0hZMzdFTHBSRDQwVERVUmMzQmFrb0JPRzlWbU1ZWThRNEFHa3dzVldnX2N3NmVEM3lsS2RITUtFeU1iNllubWR0ZFBBWlRfY0I4WDI5Nmp4ejJSeDgzVUFXVlZUNXFDWV9aTnNXdTk3bGozV2RnNmRqakl4dnZBR001Wmhxdk1SMVJTUTZzVjlRQU9panM2MkU2RHRjOWlFOER4blRhV1VPOVdGUUJodkVNX1cybDlJSWRhR3VWSzRJQVlR?oc=5"
+    },
+    {
+      "cat": "politica",
+      "titulo": "Saída de Flávio Bolsonaro do Brasil isola PL no Congresso",
+      "fonte": "A Crítica",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTJ2ZGpuUkEwVDNJY0dhWHI1bmdQcFZfazhNRzRLVEpCS21yekVETHEtcjFUSHBpYmJQTXFzQUpoeV95azB2LVV0NFVtWlRxSEt2T3lHNUhMdmo5b2N3bC1KV0ozNlpTTTJKWUEwblhaeURwNHBTamFQckYxQ2RRRkhxZ3ZXd1laLWo0cE5vQXdaWW54Rnpv?oc=5"
     },
     {
       "cat": "eleicoes",
-      "titulo": "Lula critica Flávio por ida aos Estados Unidos e aliados falam em 'perseguição'",
+      "titulo": "Da festa desmontada à fuga de Flávio: as últimas 48 horas após a derrota para Lula",
+      "fonte": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUpnZUtGNlRHTlU1eDlncnVJT2FwQzBuY2FITlZpbnBXOXRmd1VmOFRpR2pLQkVBaXc1b1M5R3lqXzVWdnphVlgxd3k4ekpGTUZ1ZFJpUEZGMmlRc3BTenVDU1BiSEVuX2w2WmowRC1CX01ua0gyQTRhZ0dSZUtzbUR0UFZYcnlKempCSm1yeVNYMkNzNWdFSm44aHNTaTU4SUpZcWNmSlpfcDZYZ29COW9JcU1VUWg2LW1tM3VqSllreUNiOEU5a05mT3Y2ODJWTHJORlFYa9IB5gFBVV95cUxQc0oyZFBOLXR0YUY2ZUd0a1dYNTQwcFloekhzSHBybmNPejdPUFp2cjRkeGE3bHlXTzltNEU4ODAzZ0J2RGRZcXZzeVhWSlZPU2NYdXRSamNJb1diQVN0RndVZzNIakVBaXN5UlNzakRDUG9pb2djQ0x6S1NkaW9FNzc1MTZhNEE4UXcyYWdxNThQeU85X1hZUDZ1blpERUxhT2tsNVRyM0F1aE1uU0QydlRtTHFGUEhBdG0tRU13U2UwVER4OE1Xb3lFSDBxdjBvZWFMUDRIQk9PNXdfR0pTNDZhN0otdw?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Flávio Bolsonaro desembarca na Flórida",
       "fonte": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZWnJuTkpxd0hFaThJblNwMko5bGNxWjJzUGNPMnNIaXhZajdnYm9feExqalpxOVo4aXg2WmRucWpscW9BRzgxMFVKc1BSVHFvNjQ3Tl93S0l1Y19aT19iUEg4b9IBaEFVX3lxTFB5OHZfdFY4MlJvemtWMzVVZTVvT0ducldFakEzNGM0eU5XOHFNQTBETENvczBnRXlNY1FwdHhTc2lSa3ZJRTFvUWpVTENkUmVzdFNIYko1T1l4V1lubjJKTzZoNFpueWll?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wdGhrX1ZLYjREY1dnNXBhOHdzUUJsOXNrVjNqUFdMUHMwMkhPV045cVJtanB5VDNLbjUtQUdtN004czJRMFo5WGJ1cEROQklqNktfbEhxNkFTNVVBbkE1U3g1ONIBaEFVX3lxTFBxcE9BSmZ4ekVTVUtfOVZteHJVOTlwcURRUW9TNmVyTm9LRkNPWEdVYnJuVURfWnJyejlSWm9Vc0pORFlHdWxZUnM2YlpSVGhlc1YzNk55WWs1Y3JlWnRQd0RQQnp4VG44?oc=5"
     },
     {
       "cat": "eleicoes",
-      "titulo": "Flávio Bolsonaro vence a eleição presidencial em Ponte Alta (SC)",
-      "fonte": "Congresso em Foco",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnNpb0NWSUU5TDlxUHFKZWlja3dDWjFxVFlScWJmaDhmVG9waVVaWGlZVWdvRjJCTS1oS1pnUS1SZWVhdjJVMGltOUtfaG0zdi1JeTZqTXZYOFlfLVA4aENEcHNPT0VzWC1yMjUzVWhrNTZMZVczTjZDVGFiLWtrZ1NHR3BnOGpkaVE5WU1QQVotVjh4a0pwRUNQWWkzWUpLWGczNnY5eEZMRTljUXc?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil",
+      "titulo": "Flávio Bolsonaro cruza fronteira argentina e segue para o Equador",
       "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWI5M2gwUm15RDExXzlBXzlfbzJ1VUcwRWgxbnA3cjVTVHF6aFBfQnZsd2tiamZ4aDBKcFE4Wl9IWXJrUHhkSjdpX0NDWXBxYkR1TnNISnFXakVUbll3YlZ0aTduSTR0dDVoUFlEanVBb1JwT3dvNU1id3NWaGkxaXMwR3U5RnZBclpQNnZHTFp0UEhTYlRfSzVlSm5SRGdGUWM5Wm9mMWVDcUhOZTNGaUtKT2lyaTZTMzhyVl9NM2JfOUk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlBIajNkWmY1VkIxM3JIQU1xTnVfMG5KY3BEYUFkMFRLQTA0VklRMy00MFZIUEFFWHhfekx0NUU5bHBfandPcjVjd21tUXJPUktRTFZWNzhLdUMxS1FCNlFVM3BpeUtHMnZoRUVzVVdIT3lIcDVwYXZ3ZXJWWmVUZ1RIZUt5ZW5XTlVDb2VpU0NYdXJFNEtwQ2NBbmQ3ckU0MnEwZi02aTlqcWFiTjRqc09vQ093WTd0d1FaVG1SMU15bVg4elVZ?oc=5"
     }
   ],
   "indicadores": {
@@ -328,7 +340,7 @@
       },
       "cdi": {
         "valor": 13.65,
-        "data": "26/10/2026",
+        "data": "27/10/2026",
         "fonte": "Banco Central"
       },
       "ipca12": {
@@ -347,8 +359,8 @@
         "fonte": "Banco Central"
       },
       "poup": {
-        "valor": 0.6607,
-        "data": "26/10/2026",
+        "valor": 0.67,
+        "data": "27/10/2026",
         "fonte": "Banco Central"
       },
       "desemp": {
@@ -382,44 +394,62 @@
     {
       "id": "eleicao",
       "tema": "Eleições",
-      "titulo": "Flávio Bolsonaro pousa em Miami depois de sair do Brasil sem entregar os passaportes",
-      "chamada": "O avião com o senador e a família chegou à Flórida às 10h25 desta quarta, após passar pela Argentina e pelo Equador. O que se sabe, o que falta e o que cada lado diz.",
+      "titulo": "Em Miami, Flávio Bolsonaro se diz \"verdadeiro presidente eleito\"; PF afirma que ele não é foragido",
+      "chamada": "Depois de pousar nos EUA, o senador divulgou uma carta em que fala em fraude e nega fuga. A PF diz que não há mandado de prisão contra ele. O que se sabe e o que cada lado diz.",
       "data": "28/10/2026",
       "inicio": [
         "Lula venceu o 2º turno com 51,79% dos votos válidos, e o TSE confirmou o resultado. O PL reconheceu a vitória, mas Flávio Bolsonaro anunciou ações para cassar a chapa Lula-Alckmin.",
         "Na segunda (26/10), o ministro Alexandre de Moraes (STF) deu 24 horas para Flávio entregar os passaportes e o proibiu de sair do país, num inquérito sobre suspeita de lavagem de dinheiro e evasão de divisas. Moraes citou uma entrevista em que Eduardo Bolsonaro sugeriu que o irmão deixasse o Brasil se perdesse. Em vídeo, Flávio disse que cumpriria a ordem e chamou a medida de intimidação.",
         "Na terça (27/10), o prazo venceu às 11h sem a entrega. A PF cancelou os passaportes comum e diplomático e vai informar Moraes. O Departamento de Estado dos EUA disse que vai conceder vistos a Flávio e à família, e Trump disse ter aprovado a ida dele, embora tenha dito não saber onde ele estava.",
         "De noite, a Direção de Migrações da Argentina confirmou: Flávio, a mulher e as filhas cruzaram a ponte entre Foz do Iguaçu e Puerto Iguazú às 22h50, com documentos válidos, e às 23h30 embarcaram num jatinho fretado para Guayaquil, no Equador. Depois de reabastecer, o avião seguiu para a Flórida.",
-        "Nesta quarta (28/10), às 10h25, o avião pousou no aeroporto executivo de Opa-Locka, em Miami, como mostraram imagens da CNN. Os EUA dizem que estão emitindo vistos para a família; entrar com visto não é o mesmo que receber asilo, e não há pedido formal confirmado. Lula disse que quem sai escondido do país 'deve alguma coisa'. Rogério Marinho, coordenador da campanha do PL, disse que não foi avisado. Moraes ainda não decidiu sobre o pedido de prisão feito por deputados do PT."
+        "Nesta quarta (28/10), às 10h25, o avião pousou no aeroporto executivo de Opa-Locka, em Miami. Os EUA dizem que estão emitindo vistos para a família; entrar com visto não é o mesmo que receber asilo, e não há pedido formal confirmado. Lula disse que quem sai escondido do país 'deve alguma coisa'. Rogério Marinho, coordenador da campanha do PL, disse que não foi avisado.",
+        "À tarde, a PF informou que Flávio não é considerado foragido nem é alvo de mandado de prisão: para a corporação, as restrições aos passaportes, sozinhas, não tornam alguém foragido. A PF diz que não há registro oficial da saída dele nos postos de fronteira brasileiros e que apura como ele deixou o país e o descumprimento das ordens. Moraes ainda não decidiu sobre o pedido de prisão feito por deputados do PT.",
+        "Perto das 17h, Flávio divulgou uma carta em que se apresenta como 'o verdadeiro presidente eleito do Brasil', fala em fraude e abuso de poder na campanha de Lula, nega ter fugido e diz que vai coordenar a oposição de fora, citando Rogério Marinho. Ele atribuiu à prorrogação do horário de votação, decidida pelo ministro Zanin, mais de 10 milhões de votos; segundo o TSE, só cerca de 34 mil votos foram registrados depois das 17h. O ministro Guilherme Boulos disse que o caso é assunto da Justiça e da PF."
       ],
       "cadeia": [
         "Flávio perde o 2º turno e anuncia ações de cassação no TSE",
-        "Moraes manda Flávio entregar os passaportes em 24 horas e o proíbe de sair do país",
+        "Moraes manda Flávio entregar os passaportes e o proíbe de sair do país",
         "O prazo vence sem entrega e a PF cancela os documentos",
-        "Ele cruza para a Argentina por Foz do Iguaçu, voa ao Equador e pousa em Miami",
-        "EUA emitem vistos; aliados falam em asilo, sem pedido formal confirmado",
-        "PT pede prisão preventiva; aliados falam em perseguição"
+        "Ele cruza para a Argentina, voa ao Equador e pousa em Miami",
+        "PF diz que ele não é foragido, mas apura a saída",
+        "Nos EUA, Flávio se declara presidente eleito e fala em fraude; governo diz que é caso de Justiça"
       ],
       "porque": "Moraes viu risco de fuga num inquérito em que Flávio é investigado, com o advogado Willer Tomaz, por suspeita de lavagem de dinheiro ligada a empresas de apostas; os dois negam irregularidades. A decisão citou a fala de Eduardo Bolsonaro sugerindo a saída do país. Flávio diz que é perseguição e que nunca planejou sair.",
-      "outraLeitura": "Aliados de Flávio dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; uma fonte próxima a ele disse à CNN que o senador temia ser preso no Brasil, e o pastor Silas Malafaia defendeu a viagem. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, e deputados do PT veem risco de fuga e pedem prisão. Segundo a imprensa, até ministros do governo acharam a ordem precipitada. No próprio PL houve surpresa: a campanha diz que não foi comunicada. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades.",
+      "outraLeitura": "Flávio e aliados dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; na carta ele diz que não fugiu, que não há mandado contra ele e que a eleição foi fraudada. O pastor Silas Malafaia defendeu a viagem. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, Boulos afirma que ele saiu para não responder pelos crimes investigados e deputados do PT pedem prisão. O TSE certificou o resultado e diz que a prorrogação do horário não afetou a contagem. Segundo a imprensa, até ministros do governo acharam a ordem de Moraes precipitada, e a cúpula do PL, que reconheceu o resultado, diz que não foi avisada da viagem. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades.",
       "cenarios": [
         {
           "tipo": "base",
-          "texto": "Com a chegada confirmada, Moraes deve analisar os pedidos de prisão e de alerta da Interpol nos próximos dias, ouvindo a PGR; a Jovem Pan diz que Flávio planeja pedir asilo político."
+          "texto": "Moraes deve analisar nos próximos dias os pedidos de prisão e de alerta da Interpol, ouvindo a PGR; a PF já disse que hoje não há mandado. A Jovem Pan diz que Flávio planeja pedir asilo político."
         },
         {
           "tipo": "incerto",
-          "texto": "Analistas citados pela Reuters lembram que Jair Bolsonaro também foi aos EUA após perder em 2022 e voltou meses depois; com o apoio declarado de Trump, o caso pode virar atrito diplomático."
+          "texto": "Analistas citados pela Reuters lembram que Jair Bolsonaro também foi aos EUA após perder em 2022 e voltou meses depois; com o apoio declarado de Trump e a carta de Flávio, o caso pode virar atrito diplomático."
         }
       ],
       "saidas": [
-        "Manifestação do próprio Flávio sobre onde está e o que pretende",
-        "Esclarecimento sobre eventual pedido de asilo e sobre o documento usado na viagem",
         "Decisão do STF sobre os pedidos de prisão, ouvida a defesa",
-        "Julgamento das ações de cassação no TSE e posse em 5 de janeiro de 2027"
+        "Esclarecimento sobre eventual pedido de asilo e o documento usado na viagem",
+        "Julgamento das ações de cassação no TSE, com as provas de cada lado",
+        "Diplomação de Lula pelo TSE até 18 de dezembro e posse em 5 de janeiro de 2027"
       ],
       "bolso": [],
       "fontes": [
+        {
+          "nome": "SBT News (PF: não é foragido)",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-flavio-nao-e-foragido-nem-alvo-de-mandado-de-prisao"
+        },
+        {
+          "nome": "Metrópoles (carta de Flávio)",
+          "url": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+        },
+        {
+          "nome": "Metrópoles (Boulos)",
+          "url": "https://www.metropoles.com/brasil/fuga-de-flavio-bolsonaro-e-assunto-da-pf-e-da-justica-diz-boulos"
+        },
+        {
+          "nome": "CartaCapital (carta)",
+          "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-se-autoproclama-o-verdadeiro-presidente-eleito-apos-fugir-para-os-eua/"
+        },
         {
           "nome": "CNN Brasil (pouso em Miami)",
           "url": "https://www.cnnbrasil.com.br/internacional/aviao-em-que-estaria-flavio-bolsonaro-pousa-em-miami/"
@@ -459,30 +489,10 @@
         {
           "nome": "CNN Brasil (o que se sabe)",
           "url": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/"
-        },
-        {
-          "nome": "Reuters via Yahoo",
-          "url": "https://www.yahoo.com/news/world/articles/brazil-wonders-where-earth-flavio-154803613.html"
-        },
-        {
-          "nome": "Diario de Pernambuco (vistos)",
-          "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11727798-eua-vao-dar-visto-a-flavio-bolsonaro-que-deixou-o-brasil-sem-entregar-passaportes-ao-stf.html"
-        },
-        {
-          "nome": "O Antagonista (PL reunido)",
-          "url": "https://oantagonista.com.br/brasil/valdemar-reune-cupula-do-pl-na-sede-do-partido-para-discutir-paradeiro-de-flavio/"
-        },
-        {
-          "nome": "ND+ (governo e Moraes)",
-          "url": "https://ndmais.com.br/politica/flavio-bolsonaro-sendor-eua-stf-moraes-lula/"
-        },
-        {
-          "nome": "O Tempo (pedido do PT)",
-          "url": "https://www.otempo.com.br/politica/congresso/2026/10/27/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol"
         }
       ],
       "indicadores": [],
-      "atualizadoEm": "2026-10-28T11:55:00-03:00",
+      "atualizadoEm": "2026-10-28T17:50:00-03:00",
       "atualizacoes": [
         {
           "hora": "6h",
@@ -491,19 +501,23 @@
         {
           "hora": "11h",
           "texto": "Avião com Flávio e a família pousou em Miami às 10h25; Moraes ainda não decidiu sobre o pedido de prisão."
+        },
+        {
+          "hora": "17h",
+          "texto": "PF diz que Flávio não é foragido nem alvo de mandado; em carta, ele se declara 'verdadeiro presidente eleito' e fala em fraude."
         }
       ],
       "referencia": {
         "dolar": 5.35,
-        "ibov": 175710.05,
+        "ibov": 170936.97,
         "selic": 13.75
       }
     },
     {
       "id": "bolsa",
       "tema": "Bolsa e dólar",
-      "titulo": "Bolsa volta a cair forte nesta quarta, puxada pelos bancos, à espera do Fed",
-      "chamada": "Depois do tombo de 13,88% na segunda e da pausa de terça, o Ibovespa cai cerca de 2% perto do meio-dia, para a casa dos 171 mil pontos. Entenda o que explica e o que pode acalmar o mercado.",
+      "titulo": "Bolsa cai perto de 3% de novo, com bancos e varejo em baixa; Fed mantém juros",
+      "chamada": "Depois do tombo de 13,88% na segunda e da pausa de terça, o Ibovespa voltou a cair forte nesta quarta, para a casa dos 171 mil pontos. Entenda o que explica e o que pode acalmar o mercado.",
       "data": "28/10/2026",
       "inicio": [
         "Na segunda (26/10), primeiro pregão depois do 2º turno, o Ibovespa fechou em queda de 13,88%, aos 176.608 pontos, o pior dia desde março de 2020. Na mínima chegou a cair mais de 17%, e a B3 parou o pregão por 30 minutos (circuit breaker).",
@@ -511,7 +525,8 @@
         "O Tesouro cancelou leilões de títulos da semana e recomprou papéis para conter os juros. Citi e BCA Research rebaixaram a recomendação para ativos brasileiros.",
         "Na terça (27/10), o mercado deu uma pausa: o Ibovespa fechou em queda de 0,51%, aos 175.710 pontos, depois de subir até 178.526 de manhã. O dólar caiu 0,97%, para R$ 5,35. O Banco Central ofereceu swap cambial de até US$ 4 bilhões e o Tesouro recomprou R$ 16,8 bilhões em títulos atrelados à inflação.",
         "Ainda na terça, o ministro Durigan prometeu enviar ao Congresso um projeto de lei complementar para que os bloqueios de gastos mirem o centro da meta fiscal, e não o piso. Os juros futuros fecharam em forte queda, devolvendo parte da alta pós-eleição.",
-        "Nesta quarta (28/10), o Ibovespa abriu estável, mas perto do meio-dia caía cerca de 2%, para perto de 171,7 mil pontos. Bancos pesam: o Santander caiu mais de 4% após o balanço do 3º trimestre, com Bradesco e Itaú também em baixa. Estrangeiros tiraram R$ 2,8 bilhões da B3 na segunda. O dólar oscila perto de R$ 5,35, e o mercado espera a decisão do Fed, às 15h."
+        "Nesta quarta (28/10), o Ibovespa abriu estável, mas virou para queda forte: às 13h06 estava em 170.937 pontos (-2,72%) e chegou a cair perto de 3% à tarde. Bancos pesam, com o Santander em baixa após o balanço, e empresas que dependem de crédito, como varejo e construtoras, lideraram as perdas (Magazine Luiza e Cyrela caíam cerca de 9%). Exportadoras como Suzano e WEG subiam. O dólar oscilou perto de R$ 5,35.",
+        "Às 15h, o Fed manteve os juros dos EUA entre 3,75% e 4% ao ano, como o mercado esperava. Os analistas apontam que a pressão aqui vem mais de dentro: dúvidas sobre quem será o ministro da Fazenda e sobre o plano de gastos do 4º mandato, com os juros futuros voltando a subir."
       ],
       "cadeia": [
         "O mercado apostava na vitória de Flávio e comprou muitas ações",
@@ -551,6 +566,18 @@
         "Em momentos assim, renda fixa pós-fixada (atrelada ao CDI) costuma ser vista como mais defensiva"
       ],
       "fontes": [
+        {
+          "nome": "TradeMap (destaques 28/10)",
+          "url": "https://trademap.com.br/noticias/news-8526206"
+        },
+        {
+          "nome": "Times Brasil (28/10)",
+          "url": "https://timesbrasil.com.br/brasil/ibovespa-cai-mais-de-2-com-incertezas-sobre-lula-4-e-espera-decisao-fed/"
+        },
+        {
+          "nome": "InfoMoney (Fed mantém juros)",
+          "url": "https://www.infomoney.com.br/economia/juros-fed-eua-outubro-2026/"
+        },
         {
           "nome": "BPMoney (bancos 28/10)",
           "url": "https://bpmoney.com.br/economia/ibovespa-cai-aos-1742-mil-pontos-com-bancos-santander-recua-mais-de-4/"
@@ -598,25 +625,13 @@
         {
           "nome": "Exame",
           "url": "https://exame.com/invest/mercados/dolar-pode-chegar-a-r-6-com-lula-reeleito-veja-ate-onde-a-moeda-pode-ir/"
-        },
-        {
-          "nome": "Eu Quero Investir",
-          "url": "https://euqueroinvestir.com/renda-fixa/juros-futuros-vitoria-lula"
-        },
-        {
-          "nome": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/economia/mercado-faz-terror-economico-depois-de-apostar-alto-na-derrota-de-lula/"
-        },
-        {
-          "nome": "O Povo (pacote fiscal)",
-          "url": "https://mais.opovo.com.br/jornal/economia/2026/10/28/apos-cobrancas-e-tombo-do-mercado-fazenda-promete-pacote-para-buscar-meta-fiscal.html"
         }
       ],
       "indicadores": [
         "dolar",
         "ibov"
       ],
-      "atualizadoEm": "2026-10-28T11:55:00-03:00",
+      "atualizadoEm": "2026-10-28T17:50:00-03:00",
       "atualizacoes": [
         {
           "hora": "6h",
@@ -625,11 +640,80 @@
         {
           "hora": "11h",
           "texto": "Ibovespa cai cerca de 2%, para perto de 171,7 mil pontos, com bancos em baixa após o balanço do Santander; dólar perto de R$ 5,35."
+        },
+        {
+          "hora": "17h",
+          "texto": "Ibovespa chega a cair perto de 3%, na casa dos 171 mil pontos, com varejo e construtoras em baixa; Fed mantém juros dos EUA entre 3,75% e 4%."
         }
       ],
       "referencia": {
         "dolar": 5.35,
-        "ibov": 171700,
+        "ibov": 170936.97,
+        "selic": 13.75
+      }
+    },
+    {
+      "id": "violencia",
+      "tema": "Política",
+      "titulo": "Governo registra 45 casos de violência política após a eleição, com 10 mortes",
+      "chamada": "Balanço do governo federal fala em ataques a apoiadores de Lula em vários estados. PF e PGR foram acionadas; os casos ainda estão sendo apurados.",
+      "data": "28/10/2026",
+      "inicio": [
+        "Nesta quarta (28/10), o governo federal disse ter registrado 45 casos de violência política contra apoiadores de Lula, com 10 mortes, 3 delas de indígenas. A maior parte ocorreu depois da proclamação do resultado, no domingo (25) e na segunda (26).",
+        "Segundo o balanço, houve atropelamentos intencionais, agressões e esfaqueamentos, ataques a tiros, coação contra povos indígenas e casos de abuso policial. Paraná, São Paulo, Mato Grosso do Sul, Minas Gerais e Santa Catarina lideram os registros.",
+        "Os números são do próprio governo e os casos ainda estão em investigação; cada um precisa ser confirmado pelas polícias e pela Justiça."
+      ],
+      "cadeia": [
+        "Eleição muito disputada termina com diferença de 4,4 milhões de votos",
+        "O candidato derrotado não reconhece o resultado",
+        "O clima de tensão cresce nas ruas e nas redes",
+        "Surgem ataques contra eleitores em vários estados",
+        "Governo aciona PF, PGR e corregedorias das polícias"
+      ],
+      "porque": "Disputas apertadas e a contestação do resultado elevam a tensão entre eleitores. O governo diz que os ataques partiram de apoiadores de Flávio Bolsonaro; a apuração de cada caso é que vai mostrar autoria e motivação.",
+      "outraLeitura": "O balanço foi divulgado pelo governo, que é parte interessada, e ainda não passou por conclusão policial ou judicial; a classificação de cada caso como político depende dessa apuração. Nas reportagens consultadas, Flávio e o PL não tinham se manifestado sobre o balanço. O PL reconheceu o resultado do TSE e não há registro de que tenha incentivado ataques; lideranças de vários partidos costumam condenar a violência de qualquer lado.",
+      "cenarios": [
+        {
+          "tipo": "base",
+          "texto": "Segundo o Ministério da Justiça, a PF vai investigar os crimes de alçada federal e a PGR deve concentrar os casos; prisões podem sair nos próximos dias."
+        },
+        {
+          "tipo": "incerto",
+          "texto": "Se a contestação do resultado continuar forte, especialistas ouvidos pela imprensa veem risco de novos episódios até a posse."
+        }
+      ],
+      "saidas": [
+        "Investigação rápida e punição de cada caso comprovado, de qualquer lado",
+        "Afastamento de policiais envolvidos em abusos, como pediu o governo",
+        "Condenação clara da violência por lideranças de todos os partidos",
+        "Canais de denúncia e proteção a vítimas e comunidades indígenas"
+      ],
+      "bolso": [],
+      "fontes": [
+        {
+          "nome": "Metrópoles (balanço do governo)",
+          "url": "https://www.metropoles.com/brasil/eleicoes-governo-contabiliza-45-casos-de-violencia-politica-e-10-mortes"
+        },
+        {
+          "nome": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/governo-registra-10-mortes-de-eleitores-de-lula-apos-eleicao/"
+        },
+        {
+          "nome": "Bahia Notícias",
+          "url": "https://www.bahianoticias.com.br/noticia/323108-governo-contabiliza-10-homicidios-e-45-casos-de-violencia-politica-desde-sabado"
+        }
+      ],
+      "indicadores": [],
+      "atualizadoEm": "2026-10-28T17:50:00-03:00",
+      "atualizacoes": [
+        {
+          "hora": "17h",
+          "texto": "Governo divulga balanço de 45 casos e 10 mortes e aciona PF e PGR."
+        }
+      ],
+      "referencia": {
+        "dolar": 5.35,
+        "ibov": 170936.97,
         "selic": 13.75
       }
     },
@@ -643,7 +727,8 @@
         "Lula foi reeleito e o mandato novo começa em 5 de janeiro de 2027. Segundo o presidente do PT, Edinho Silva, o ministro da Fazenda será anunciado até o fim de 2026 e Lula ainda não começou a montar a equipe.",
         "A imprensa cita o governador do Piauí, Rafael Fonteles (PT), ex-secretário de Fazenda do estado, e o vice Geraldo Alckmin como os nomes mais fortes. Nesta terça, Fonteles ganhou força: segundo a imprensa, Lula sinalizou a aliados que pode escolhê-lo, mas não há convite nem anúncio oficial.",
         "O atual ministro, Dario Durigan, disse que Fonteles é um 'excelente nome', que a equipe não foi discutida com Lula e que a decisão virá 'nas próximas semanas, nos próximos meses'. O presidente do BC, Gabriel Galípolo, disse que não é candidato e que fica no BC até o fim do mandato, em 2028. O governo também prepara o envio ao Congresso do 'imposto do pecado', com arrecadação estimada em R$ 41,9 bilhões em 2027. Na terça, Durigan também prometeu um projeto de lei complementar para que os bloqueios de gastos mirem o centro da meta fiscal; uma das ideias citadas é ampliar em pelo menos 20% a parte do orçamento que pode ser bloqueada, hoje perto de R$ 150 bilhões.",
-        "O próprio Fonteles disse, ao voltar a Teresina na segunda, que nunca tratou do assunto com Lula e que não cogitava a hipótese; o vice-governador eleito do Piauí disse estar pronto para assumir se houver convite."
+        "O próprio Fonteles disse, ao voltar a Teresina na segunda, que nunca tratou do assunto com Lula e que não cogitava a hipótese; o vice-governador eleito do Piauí disse estar pronto para assumir se houver convite.",
+        "Segundo a NeoFeed, os nomes mais citados para a Fazenda são Geraldo Alckmin (apontado como favorito), Rafael Fonteles e Fernando Haddad, sem confirmação. Durigan diz que as medidas fiscais serão detalhadas depois que Lula definir a equipe. Jeferson Bittencourt, do ASA e ex-secretário do Tesouro, defende um sinal de ajuste ainda em 2026."
       ],
       "cadeia": [
         "Mercado reage mal à reeleição",
@@ -679,6 +764,10 @@
         "Para dinheiro de curto prazo, aplicações atreladas ao CDI ou à Selic oscilam menos"
       ],
       "fontes": [
+        {
+          "nome": "NeoFeed (Lula 4 e o mercado)",
+          "url": "https://neofeed.com.br/poder/lula-4-acena-ao-mercado-mas-so-discursos-bastam-para-ancorar-as-expectativas/"
+        },
         {
           "nome": "Revista Fórum (Fonteles)",
           "url": "https://revistaforum.com.br/politica/rafael-fonteles-fazenda-lula/"
@@ -728,7 +817,7 @@
         "dolar",
         "selic"
       ],
-      "atualizadoEm": "2026-10-28T11:55:00-03:00",
+      "atualizadoEm": "2026-10-28T17:50:00-03:00",
       "atualizacoes": [
         {
           "hora": "6h",
@@ -737,6 +826,10 @@
         {
           "hora": "11h",
           "texto": "Proposta da Fazenda prevê ampliar a parte do orçamento que pode ser bloqueada; Fonteles diz que não tratou do cargo com Lula."
+        },
+        {
+          "hora": "17h",
+          "texto": "Ainda sem anúncio; imprensa cita Alckmin, Fonteles e Haddad como cotados e economistas cobram sinal fiscal ainda em 2026."
         }
       ],
       "referencia": {
@@ -755,7 +848,7 @@
         "A Selic está em 13,75% ao ano, depois de cinco cortes em 2026. A próxima decisão do Banco Central é em 4 de novembro.",
         "A inflação de 12 meses chegou a 4,58% em setembro, acima do limite da meta (4,5%). Depois da eleição, os juros futuros longos saltaram para perto de 15,2% ao ano. Na terça fecharam em forte queda, com a ação do Tesouro e investidores atraídos pelas taxas altas: o DI jan/27 terminou em 13,64% e o jan/31 em 14,85% (era 15,28%).",
         "À tarde, o presidente do BC, Gabriel Galípolo, disse que o banco não comenta eleição nem Copom e que pretende anunciar ainda em 2026 novas medidas para quem está endividado em crédito caro, como o rotativo do cartão.",
-        "Nesta quarta, os juros futuros voltaram a subir cerca de 0,1 ponto do meio da curva em diante: às 9h17 o DI jan/31 estava em 14,99%. O Fed, agora presidido por Kevin Warsh, decide os juros dos EUA às 15h; a ferramenta FedWatch, da CME, aponta 91% de chance de manutenção na faixa de 3,75% a 4,00%, e alguns economistas veem chance de alta em dezembro."
+        "Nesta quarta, os juros futuros voltaram a subir: o DI jan/31 passou de 14,91% para cerca de 15,11% por volta das 13h, depois de tocar 15,29%. Às 15h, o Fed, agora presidido por Kevin Warsh, manteve os juros dos EUA entre 3,75% e 4% ao ano, como esperado; parte dos economistas ainda vê chance de alta em dezembro por causa da inflação americana."
       ],
       "cadeia": [
         "Inflação acima do teto da meta",
@@ -791,6 +884,14 @@
         "Para guardar dinheiro, aplicações atreladas ao CDI ou à Selic rendem bem nesse cenário"
       ],
       "fontes": [
+        {
+          "nome": "Times Brasil (DI 28/10)",
+          "url": "https://timesbrasil.com.br/brasil/ibovespa-cai-mais-de-2-com-incertezas-sobre-lula-4-e-espera-decisao-fed/"
+        },
+        {
+          "nome": "InfoMoney (Fed)",
+          "url": "https://www.infomoney.com.br/economia/juros-fed-eua-outubro-2026/"
+        },
         {
           "nome": "DGABC/Estadão (DI 28/10)",
           "url": "https://www.dgabc.com.br/Noticia/4365461/taxas-futuras-de-juros-avancam-antes-de-decisao-do-fed-nos-eua"
@@ -832,7 +933,7 @@
         "selic",
         "ipca"
       ],
-      "atualizadoEm": "2026-10-28T11:55:00-03:00",
+      "atualizadoEm": "2026-10-28T17:50:00-03:00",
       "atualizacoes": [
         {
           "hora": "6h",
@@ -841,11 +942,15 @@
         {
           "hora": "11h",
           "texto": "DIs sobem cerca de 0,1 ponto antes do Fed; jan/31 a 14,99% no início do dia."
+        },
+        {
+          "hora": "17h",
+          "texto": "Fed mantém juros dos EUA entre 3,75% e 4%; aqui o DI jan/31 sobe para cerca de 15,11%, com dúvidas fiscais."
         }
       ],
       "referencia": {
         "dolar": 5.35,
-        "ibov": 175710.05,
+        "ibov": 170936.97,
         "selic": 13.75
       }
     },
@@ -1145,7 +1250,7 @@
     }
   ],
   "robo": {
-    "atualizadoEm": "2026-10-28T05:37:41-03:00",
+    "atualizadoEm": "2026-10-28T13:06:52-03:00",
     "ok": [
       "BC selic",
       "BC cdi",
