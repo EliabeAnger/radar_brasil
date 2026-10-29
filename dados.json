@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-10-28T17:50:00-03:00",
-  "alerta": "Em Miami, Flávio Bolsonaro divulga carta em que se diz \"o verdadeiro presidente eleito\"; PF diz que ele não é foragido. Fed mantém juros e Ibovespa cai perto de 3%.",
+  "atualizadoEm": "2026-10-28T23:00:00-03:00",
+  "alerta": "Ibovespa fecha em queda de 2,68%, aos 171 mil pontos, menor nível desde agosto; dólar a R$ 5,34. Flávio Bolsonaro, em Miami, promete entrevista nesta quinta.",
   "eleicoes": {
     "candidatos": [
       {
@@ -110,6 +110,10 @@
         "texto": "Em carta divulgada nos EUA, Flávio se diz 'o verdadeiro presidente eleito', fala em fraude, nega ter fugido e promete liderar a oposição de fora; o TSE já certificou o resultado."
       },
       {
+        "data": "28/10",
+        "texto": "Segundo a imprensa, integrantes da cúpula da PGR acham que a ordem de Moraes foi precipitada e sem consulta ao MPF; a PGR não se manifestou oficialmente. Aliados anunciam entrevista de Flávio em Miami na quinta (29/10)."
+      },
+      {
         "data": "05/01/27",
         "texto": "Posse do presidente eleito.",
         "futuro": true
@@ -118,54 +122,54 @@
   },
   "mercado": {
     "ibov": {
-      "pontos": 170936.97,
-      "var": -2.72,
+      "pontos": 171006.1,
+      "var": -2.68,
       "anterior": 175710.05,
-      "minimo": 170297.16,
-      "maximo": 175711.22,
-      "hora": "28/10 13h06",
-      "ts": 1793203608283
+      "minimo": 171006.1,
+      "maximo": 171006.1,
+      "hora": "28/10 22h00",
+      "ts": 1793235628948
     },
     "acoes": [
       {
         "ticker": "PETR4",
-        "preco": 52.48,
-        "var": -0.59
+        "preco": 52.51,
+        "var": -0.53
       },
       {
         "ticker": "VALE3",
-        "preco": 61.54,
-        "var": -2.32
+        "preco": 61.38,
+        "var": -2.57
       },
       {
         "ticker": "ITUB4",
-        "preco": 39.87,
-        "var": -3.2
+        "preco": 39.78,
+        "var": -3.42
       },
       {
         "ticker": "BBDC4",
-        "preco": 14.89,
-        "var": -5.34
+        "preco": 14.68,
+        "var": -6.68
       },
       {
         "ticker": "BBAS3",
-        "preco": 16.88,
-        "var": -2.88
+        "preco": 16.79,
+        "var": -3.39
       },
       {
         "ticker": "WEGE3",
-        "preco": 47.22,
-        "var": 2.3
+        "preco": 47.2,
+        "var": 2.25
       },
       {
         "ticker": "SUZB3",
-        "preco": 48.22,
-        "var": 1.45
+        "preco": 48.1,
+        "var": 1.2
       },
       {
         "ticker": "B3SA3",
-        "preco": 14.33,
-        "var": -6.95
+        "preco": 14.69,
+        "var": -4.61
       }
     ],
     "juros": [
@@ -176,13 +180,13 @@
       },
       {
         "nome": "DI jan/2028",
-        "taxa": 14.73,
-        "var": -0.175
+        "taxa": 14.632,
+        "var": 0.249
       },
       {
         "nome": "DI jan/2031",
-        "taxa": 15.11,
-        "var": 0.199
+        "taxa": 14.97,
+        "var": 0.059
       },
       {
         "nome": "DI jan/2033",
@@ -209,7 +213,7 @@
         "var": null
       }
     ],
-    "acoesTs": 1793203608283
+    "acoesTs": 1793235628948
   },
   "combustiveis": {
     "semana": "Média nacional ANP, semana de 18 a 24/10/2026 (gás de cozinha e GNV: semana de 27/09 a 03/10). Variação desde o início do ano.",
@@ -259,75 +263,75 @@
   "noticias": [
     {
       "cat": "economia",
-      "titulo": "TCU propõe alíquota de referência de 11,3% para CBS em 2027, que substitui PIS e Cofins na Reforma Tributária",
-      "fonte": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1M5SnhCZTcxM3ctamhaQ3hac3NPV2JfdUJNTXZWNGhhVk13Skw3bGlVdTJnTFRQQUhSOXgzUkJOczdMdFNNUXFfNTh2YkR0bkpfLXJ0VS11QUxjRWtJY0RHWXdNOWFpQVMteGNmWEduOGpqREFubVhYS29LS2NLNE5KT3ZlWERkSnBDWHVnWDQ2a25GOE5KTHhVNUhMMnJGWko5cmZBS0ZzYXNYMWZrbkJiN2dWMW1kRHc1VFpnRDN3cUNoOEo3NHdzMDhNMkY2OTVzR3lNVVZWRlkwaTZVQXBTT2fSAfMBQVVfeXFMT0o0ZFNBS1JqMFdhU0hOUHhfendmLTRsRnZXQ19fYjZqNEhnbEZXLXdSTUxHdUxZbjFIdFIxd1ZXam9fV2pQZlM2cHJGMzV0S0J0emcyYnZTOWp1LTJOOGliUTNiX3FwVkF2VjljLWxfZE5pMVptYk9xdDFBa3FVWURfVTNNemFrQWhRNUUyTmU3V3diaHJMUGhYLWZVZFpTQm9WaXI0aFJUUXZMZkhaa2htbEc4YlZxS0plZ0M1SGpFQ1d1a1NoM2IzN0d6VW9ONEZ4LVhzaVpoWkJlSHVkMnlIdHZzRGxEdWphVnJuN1JRdzFZ?oc=5"
-    },
-    {
-      "cat": "economia",
-      "titulo": "Risco fiscal de Lula 4 divide economistas após queda da Bolsa",
-      "fonte": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVljc0d3dnV0YXJJUVp1by04MUw2ZXlsY2lHR1pMQWptUGhXSDR2SUVWMXI0dFdCQUtPZ0J2ZHlLMEg2Y1o3TWpCNEVfdlhmaVpUV2RXazIyWGVzTGVNNGpkTl9PT1lzZUlqdVBSYmM1cjdTWkwzY092M1dZRV9HWFhWcDZqVy1qZzVOV3A5dEp6Q1RlaHZGRG9sMF9rcGhLb0JhbUJ3dGRpdjQ3UmhTVjRNS0RuWmU0eUl0YllXR2x0Yms?oc=5"
-    },
-    {
-      "cat": "economia",
-      "titulo": "Santander Brasil (SANB11) tem lucro recorrente de R$ 2,9 bi no 3T, queda anual de 28%",
+      "titulo": "Estresse segue? Por que Ibovespa caiu 2,7% hoje após terça mais tranquila no mercado",
       "fonte": "InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWpjX2w0Wjlka3hILUdxTmlnNDBfNTdkVm9ZZDVtQThNX3F3ZlN0Ym1VMFI2bDBPWTRUMUZqVlVHbTZjd1Rsd1hLdUozOVhONWdwS2dfMXdpTC1SSExkMm1JOXNlT3hjbzlDYzg3bTB0N3Joc3F3dDU1R21PM2tFdkhZUHg4bm9MazBWUVZUUk1nak8w0gGaAUFVX3lxTE1rV2RlNU1TY1VlUjFjTzZyRk9CSkx4U2tmYlhwTkQ3R1lELUVXM1FCbG1tMG9NdXkwS2dFNk5UaHotTTZqNWxNNmd6THk5c3BBd25YaVlUbFZhbU45ZW5za25iem5fcVZHU1pUZnF4U29EOEZuWHVMZW1SdGdOX1UyX0RuMGVTbk9YN3NBb0dzZnFOZU1kdjIwWnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUy1RUmx3NzBPbXVnTnNURGZUVk5aNUpmcnQ2U1VMdEFHTUM5MXNwSGNYYldBaDRmOW5IZkl6NFdlZ19CLTdpTmJOZExSUUVDVlViVXIwV2hDdVVRT1lCM2F2NUFVVld3UGQ3Y0ZfVDhNbkYydzdmbkRIN3VacUdnZmJiTkZZRG5EUEV3bXZWc3IxdC1ZSldOellCM1VKdHg3c2tQdWY1bGk1VV9nU3N4RWxzMjY2R25uNVU0M3Zna3RORFVyWVB6bGtqU1M4c2M3blHSAdcBQVVfeXFMUGtWNURWVXFGcmtncGp5VGlDUXJaaFBoYUQ5bGVRZ2QwYW8xN2NSTXRQOVJfaEdBZ0JGLUZqMDYyeVdXbjI3Z3J4UWxwdHNjV196cTNzX3FIU1VqZ2NDTnNVamQyUkhmalhlSlI4cHZVQVFEMkRQeTVIY0l6ckxsTHJaamdXbHpXcnFBTk5wN3YwdWNHMUVxQlJJaGc4aV9uSVYtMVdvb0oxOG9GYVNQWm5TMmNIZjVLdVI3bXNGdHpyUXhUTHg1djNFZ01pWmtUY3N1bUp2d2s?oc=5"
     },
     {
-      "cat": "brasil",
-      "titulo": "Flávio Bolsonaro chega aos Estados Unidos",
+      "cat": "economia",
+      "titulo": "Caso Master: veja os nomes e as condutas dos 15 indiciados no relatório da PF; lista inclui Vorcaro e ex-presidente do BRB",
       "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3ZyVFlPbFdyMHNXUnp0dmg4bGhCcGt5QU56OWZ5VTZicmctcHZQZlhDbWVjWHZxandsYUVaNUk5Y08xc1ZCWTZ1bUJ0V3hkUEZfSWRFLXhLSHFsbnhoS25nbXJ6dGRGY1JnMDBybE1vQnpFQUljcHBXcDdaX2JzOVlBd09pU3NTaG8zN2trMNIBngFBVV95cUxNY3IycThMYjdoZzl5X0R1NlF1M191LU1XNERRNmI1SlFSNzhWZW5Gc1gwRC1NX2pXVjVvdGdPTUdjcFI3aC1DenhDMFpCanMxV0NyZ2dPTDFXOTlvRjh0WUV3UkFORm91cDB2SzYyakR5SkMwNzQ4WWF1SF95WXdjQnR6N2t4bTEydERoQnhBUXc1VEtnbHM2bnc0Snlzdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTDJtRUM5QUNiQ0M3MmUwMjZ5M3dEdThlaWZfdmpRek9TZDlrMHFBZnRkNllEcTFQMmJYU3BKbFZxQWRSRExWN283bTREcEp1U0RHX2tzdlp6dURKWGZfSmRvelY1ZDRCWVZ0amdLSktJSlBVdHVjdUgzRjFxREE4UmphM0NsN0VxekVpLU4yeVo4RkJ2N1J2bGtCZFlyQWVMcVpad1pDdlVMcXI2RkVmc2t0MURqTWJuNHNKUnBLOEprUmdNRGVmRFhINUctUFVhbThNbTJWZU52akNuQmxIQWJwZVlPbFlIbnFuclRMZ1EyMmdJOExfcTRjY3RXRkdtcWpqaTBQNWY0RG1VS05TODJYLWXSAaMCQVVfeXFMTkowZUNsTm9VWTRwaW5rZE1zZ2xvc19fMGc1RG5oT19iLVQ0WVBEMTQ1Z29pNE9TRHJ1VDFnajZtM1dGN0tjYmU2S1UwV2hlVlRLeEVZQU9SMmtiQjNMREdqTTEyYW4xOXVMWk9HYW5Ccnh1dl96Mi1qRmdMdllGdl9CS1loeGZ6dDBvZ3NRU1NxSHduRG9QTnMyN2tvQnhZVXBWTzR6TGVZSG1fTDB3ak02aDdlendHUnZMUzJnSnBQbzZZMjFVWUhNZUx6eE84UWdMdkduWU84SHhieWhDQTR4dHpuSndTS2N5TFd5SjM1SUE1dUYxM2pSbUtGOV9VSFRtY2tKd2gyYkxmdXBlLU1PWGY1RjlfQVJHOVAxdVdiU2RJ?oc=5"
     },
     {
-      "cat": "brasil",
-      "titulo": "União Progressista declara apoio à reeleição de Davi Alcolumbre",
-      "fonte": "Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblJKVU45TU9tblZUNnBWbFk1ZlNvUlNMbUpvbGdkTkxaQUhPUFFyb3NWdDlFZUFHNTlSdDdrX1VhTjJxSzNUNV9qbFA3djJmRUh5UDhHRkNkMmF3eVFRbkM2YWNfWHRzTm55eFV4YTlhem1GRjVvRVQ1VzVlaFZ4WEZQMVNDV1BSX0VsZDVjZ2lUOWZReVpGR0NnNVdyMmlEMTE5V0t0V2lQSHU0?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações",
-      "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbWZ3S3FpdjNNQlFkXzFUUndnS2pNR0JEcXpyeGRJRTNMSzdCYTV2ck1OV0pPMmpaT25HbUUyMWxKc284QUhrRElVRUFlMldZa28wZzRsNG4zbGlRQWdyZ0Y4YU9pR0JESjViS1AtRC1Iek53eTdkTmFZWk9PNmhraDJnTGRpOXZDcHFpMVZmWThTYjVXSFBjV0FfTkE5UGFGU2xxQ01TN2JKTk54YVp4TEVycHBoYVFUQUpHTUVYZzNWUWw1NGxPNWp5RWJ2VElPQnhEbkhZR0FVbjFBVDRSNzFaYkpvc1pRR0oyLW1jYzhKLUJQOGkxeNIBhwJBVV95cUxPR0ZhN1c3MEVkdWxDbUQwUzY2VTN4VDZoMG5PbnduVms2X044WFlKWGpDWTh1MFVCbmh2dDIwcU5JVlloM2dEWGhPd2lPX2FrdGI2NGM4cXhXRnZlbGFzTTRIUVlUclBwREpRdkFCSG9UbjFSOGtxTW1ObGMzRjdic1BmdTkwVDl5cHN1cE1qeXpXTFdvc2M0WEpPQVA5dUpuSXhWS2UtdTVtWlJHMVBVaUxZOTM3akJRaC1wMkhkeU4xNXhfVlo4NFJzdWFKSmFHRklCZUJORTlyZnp6WUR0NHR3UDR1WDNpMm5IOHNlZWJyQllpZ1g5V2doRVlzbXh6VjVfcVRLUQ?oc=5"
-    },
-    {
-      "cat": "politica",
-      "titulo": "Pesquisa da Unicamp analisa expansão dos evangélicos no Congresso e a formação de suas escolhas políticas",
-      "fonte": "portalporque.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNTY3VXJ2QVhkS0FhZ29vdEhPZlBkX1Rmd0dyckN4YTFfZF9Jd3NHUnExTTE5RHVfd1l0Sm84RkZUMFkxMzFsWGhwRDF5eXNQd19uQXpzWWVUQ1JFQnloMTRVbW83R2xWQ3R6bW5rLVExRmNqWWo5OFVJTHlmU1V3NEUyS0JILTdaT0tuRUNOZC14R3JlencwUVNxUm83VDdQXy1GUDJBbXBYdXZmVDNVTC1oclVpbW1fQklMYmpyaW1YWHVkRGxRX05PX0JvSWpXUXYyUDlLSTRMczM4M1RhaA?oc=5"
-    },
-    {
-      "cat": "politica",
-      "titulo": "Lula terá Congresso mais à direita e enfrentará desafios para governar no quarto mandato",
-      "fonte": "Brasil 61",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVl9LWDhKdkJoTVlnNm1BNm1IYXkycUdNdF9xNzVOS0V1TElLRWNVZVljV2NJQW44RVJWWlQyMTRQQWp6S3ZrMnhBcHVLUjR1aHd3cjdaT0s2LWxrMU03VnhseTkwT00yaWhMSHpHMUFwYkxpdkMwYjVBS2MzdTliUWljU1FrNGs2VHd6b01RVlZQYll1NXpINU11RmZMOFBQRmdzd1N6WVpZMTN4T3cyaFotSHBuS2V0b0t5ZlljVTfSAcYBQVVfeXFMT09ER0hZMzdFTHBSRDQwVERVUmMzQmFrb0JPRzlWbU1ZWThRNEFHa3dzVldnX2N3NmVEM3lsS2RITUtFeU1iNllubWR0ZFBBWlRfY0I4WDI5Nmp4ejJSeDgzVUFXVlZUNXFDWV9aTnNXdTk3bGozV2RnNmRqakl4dnZBR001Wmhxdk1SMVJTUTZzVjlRQU9panM2MkU2RHRjOWlFOER4blRhV1VPOVdGUUJodkVNX1cybDlJSWRhR3VWSzRJQVlR?oc=5"
-    },
-    {
-      "cat": "politica",
-      "titulo": "Saída de Flávio Bolsonaro do Brasil isola PL no Congresso",
-      "fonte": "A Crítica",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTJ2ZGpuUkEwVDNJY0dhWHI1bmdQcFZfazhNRzRLVEpCS21yekVETHEtcjFUSHBpYmJQTXFzQUpoeV95azB2LVV0NFVtWlRxSEt2T3lHNUhMdmo5b2N3bC1KV0ozNlpTTTJKWUEwblhaeURwNHBTamFQckYxQ2RRRkhxZ3ZXd1laLWo0cE5vQXdaWW54Rnpv?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Da festa desmontada à fuga de Flávio: as últimas 48 horas após a derrota para Lula",
-      "fonte": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUpnZUtGNlRHTlU1eDlncnVJT2FwQzBuY2FITlZpbnBXOXRmd1VmOFRpR2pLQkVBaXc1b1M5R3lqXzVWdnphVlgxd3k4ekpGTUZ1ZFJpUEZGMmlRc3BTenVDU1BiSEVuX2w2WmowRC1CX01ua0gyQTRhZ0dSZUtzbUR0UFZYcnlKempCSm1yeVNYMkNzNWdFSm44aHNTaTU4SUpZcWNmSlpfcDZYZ29COW9JcU1VUWg2LW1tM3VqSllreUNiOEU5a05mT3Y2ODJWTHJORlFYa9IB5gFBVV95cUxQc0oyZFBOLXR0YUY2ZUd0a1dYNTQwcFloekhzSHBybmNPejdPUFp2cjRkeGE3bHlXTzltNEU4ODAzZ0J2RGRZcXZzeVhWSlZPU2NYdXRSamNJb1diQVN0RndVZzNIakVBaXN5UlNzakRDUG9pb2djQ0x6S1NkaW9FNzc1MTZhNEE4UXcyYWdxNThQeU85X1hZUDZ1blpERUxhT2tsNVRyM0F1aE1uU0QydlRtTHFGUEhBdG0tRU13U2UwVER4OE1Xb3lFSDBxdjBvZWFMUDRIQk9PNXdfR0pTNDZhN0otdw?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Flávio Bolsonaro desembarca na Flórida",
-      "fonte": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wdGhrX1ZLYjREY1dnNXBhOHdzUUJsOXNrVjNqUFdMUHMwMkhPV045cVJtanB5VDNLbjUtQUdtN004czJRMFo5WGJ1cEROQklqNktfbEhxNkFTNVVBbkE1U3g1ONIBaEFVX3lxTFBxcE9BSmZ4ekVTVUtfOVZteHJVOTlwcURRUW9TNmVyTm9LRkNPWEdVYnJuVURfWnJyejlSWm9Vc0pORFlHdWxZUnM2YlpSVGhlc1YzNk55WWs1Y3JlWnRQd0RQQnp4VG44?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Flávio Bolsonaro cruza fronteira argentina e segue para o Equador",
+      "cat": "economia",
+      "titulo": "TCU aprova cálculo da alíquota de referência da CBS em 11,3%",
       "fonte": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlBIajNkWmY1VkIxM3JIQU1xTnVfMG5KY3BEYUFkMFRLQTA0VklRMy00MFZIUEFFWHhfekx0NUU5bHBfandPcjVjd21tUXJPUktRTFZWNzhLdUMxS1FCNlFVM3BpeUtHMnZoRUVzVVdIT3lIcDVwYXZ3ZXJWWmVUZ1RIZUt5ZW5XTlVDb2VpU0NYdXJFNEtwQ2NBbmQ3ckU0MnEwZi02aTlqcWFiTjRqc09vQ093WTd0d1FaVG1SMU15bVg4elVZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0ZZYVg3VE5JczRIQzhUbklBNk9McGxhYjVYLXVWcG5yOTRRUnpsUnFjbzM5R2ZhUTJXQ3h0SnFvMWRZSmZtU09GTG1rS1RZZUg0N2RaV0xSZENPSWRROEpzSDliY2p2TDRZaF9fZFN2TDhETjd1UEtOeGVEM3dmM0pjMmcxcUlaTFUycFhaTC1Ib1d3V2s0enliZ3VodEI0dFpucGNGZlpKSU5QV2g2ZHptUjlYRTg?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Marinho diz que 'não há prova' de fraude eleitoral e que carta em que Flávio se autodenomina 'presidente eleito' foi 'erro de confecção'",
+      "fonte": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPLWNZaGlPampKVjBoS2oxZUI3NURjYUVCQThwRmZPczJoeVk1UTFNVWk4YWhvVXBsdU9GVUIxekx5cHowMVZTbGdlYkdBYl9QYTlWSFBEdFpVckU3a1R3Q2NfVmk3d0YzVHgyVFZtRFR2NkpYal82S21aZjRYYmhhZk9zYlpXRUNIN1ZwNzZBOFhMWjJpcVpKRVFWbTZpcmpuSDhsQmhkRGJjWndENEhmNVlLSXlCTHI5bGpKdmdTSlJkdU1lMXdiQ3UtR3g2UzRRclRETmNFVmhheVZrTmtnX2VqY1hIV2ptRXR5dDMwZTVyQXA5TFNTb1Y0QzFmQmNFY3JpUVYxTDlzYXN6TTM5cnFPSUtmcGNncmVZX0JWazE5ZW9QeWU1TUY2dTdidlB6dEVMWlJB0gHEAkFVX3lxTE1VcVY2NUVWVHFnUXZudmFaelNDYmw2ZEJDMXFTRnJwQmhEU3ZKSWdnRHFNMnMyVXd5N2JkN0ZqbzFqcm5JZlJHV0ZGZm5OWlRUWkk1S1FNNUNGbm9CUWJkNG1pekZZcGdOeUp1QTIyMHVZWW9NdVdCNGpyQUY5eWhIak9lYzNmVVZiLTdmUnhXdXBtNEVmOFZNbGFualNmenNTT0VEMFktOVJUSVdDNGp6OFF3aUQzTGszV1JLU3lsWGctcmV4eGNYU3kyV1ZpZ2VJVFRIODMyNHZaeHRtZV91ck1KZUxyb0dJeTRPQ1ppX3J5TGhVZmxLbllKMEVfbjFHY2ttMkVqVkdaZlp6RUZxUzdfTVA5TEJJaGNHMjJLZUtvVnR2aUZ2MEpaa1pzUlRIUGpqWVlNZFJXSFhObE9yeHJQWg?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Deputados negociam voto distrital em 2034 em reunião com Motta",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDFDWEo0WFBYTll4MkdVX0trLWFZZHZzU0R4ZlV4RHF3WVVCRDJCWk4ybVhJZFRNYkxQUmFtUTdPckVBME9jcE91VndNSjJzSThvNVRPT0RaTGZzeG0wZ3FqUFRxaGlfV091ZzBmckc1TlhoTGJkNTZSMUIydlY4OUtKQkFaRHlONUtONU9QQzl5MDVla3JZbkxDYWxnb1lKbC12TFZMRU9paTg?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "TSE arredonda percentual de votos e PSOL/Rede supera cláusula de barreira",
+      "fonte": "Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjVZN2lPazFKYmVVSlhQUTN4U2NwSXVqYkcwSU41cjJOb2ZLSXp4VTdEYlpMZ0Nyb21TcU5vdUZ3c2tKU1M4cTVCZ0EtLUg2TnQzZ2gyM1JCRUdzakNwWldMcDA5eWE5WHd0M1lhZC1oaS1oakFWcjlnOEliOEhxaHJTTEh3SUhMS19CVkR4V3lvSVhmNGZyeXI2bVVqYjgwVWZvVENtMDV1UU1aTFh5OXUxZXVlY0NjQUJzMw?oc=5"
+    },
+    {
+      "cat": "politica",
+      "titulo": "Rogério Marinho se opõe à intervenção dos Estados Unidos no Brasil",
+      "fonte": "Congresso em Foco",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnZGbEN5bl9XcjVUaW8xMG1FUkRHLTZGUUV6SVlTOG04QjI4RnVKQ1dxNjUySTdNUVJ0QU5uUUxueW5OcGo4cmVNSFlqUjJVSHVWVHFEdWdVTXA2Ul9HYVBhSWN1NzFyam5XYWFVZFpObmNZRkJpRWtmWE1vTl9HaWVXTWFkOHcwQmJNNThBM2dPQkpFRnhDWnJJVlVyTk1NaW03YzVsa2l5dlV1d2xGNmR3UmJMNEU?oc=5"
+    },
+    {
+      "cat": "politica",
+      "titulo": "Alcolumbre tenta acordo entre Congresso, governo e STF por ‘pacificação’ e avalia aceno a Bolsonaro",
+      "fonte": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTjctcFRyajlycGNZcndtNWV3MEdTTXp4cnExcUJfTUxhNGpHMVVqT1hGYzcwOUNtamg0QXk3RXVmRXRXLTdJeFYyc3RsRFJoWlo5ZWlKajNncWt2aExkcFp5ZnRmR29odFlwV1hxX3hQa1NjaHFGRkNCQUhtbVF6cUcyZ0ZjRkFVLWRfN01KZjE0RlpxWUp6ZkVJYnVaYmxwV2I3bDU0SExZTHBrVjMyMjZTT21HZUpyTHNHWnpvMGFBUG14ZDJaN1F6clFzZF9QN1pJVC03RER6VW5TN2REbWZFeGlJTGc0QU040gH6AUFVX3lxTE5vZTJoUmRmdnQ4MG9fb0swdzZFQmo0cHBYZXVSY0VsdElBM3RsQ2VXTUl1RXQwUWtodWpnTHVMZ1FYV2c1ZUc1NHhGUUFYVDRGajRfck42OFB1WElyX1NsRDc4SGhiRlNkUkk5QzNhMV9oeklsMDFsQmd0dE5Fa25vRG1NanVKT3RPdnZINFZBSUkyVTZPdzhGaC1hdjRNOFdpYTZhaklvN1ZWc2hlVlRISDdvc0E3NTEwOUFHS2p0NHFjRHRTQTNZSFFRQnhlNDFRc0IxYU1oZE1tY1VBSXQ2WjBKeGtaSFY1QXBsZE9iNXI1X1J5TDM2eXc?oc=5"
+    },
+    {
+      "cat": "politica",
+      "titulo": "Bancada do PL no Congresso manifesta \"total apoio\" a Flávio Bolsonaro",
+      "fonte": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0ZpZlVwVFc5Y28yMlNscnFoNEtWWklqNEc5UFBveWZfanRrTlh5Z2xDNFJwNXN6RWNETnl1MlJhVWtST0xTOThmbzg5X1dYOHh3MmdPUy1mQV81S0pYazVyeThqNm5DOEZHdEFRU2c3eUpDMkM5bGVPOGlFRGV4UkZySFN1R2NuRUtMYVNZRm5FUWplaUxVVnVTVkVqZFVOaVI2NV9wVDFOQQ?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Sem provas, Flávio Bolsonaro diz que eleições no país foram fraudadas",
+      "fonte": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNnlMaWRWamFzVWpRbFozLTZfbTNNUmFSTzlZVnlDS2xDY08xT0haNUZYMW9fdGNIaWlIQ1NtWlRjM0VlZzB0LVMzVlVCZmpqSV94Y25Hd1g5VkJMOWdLcW15V1o1bUdHQU5JV3pBbTZEaU0yRGR3UTMxZUR4b0V5TmtIUTdKZ3J0TlVSUEVDSWVGUFV2VVpDVnBDRmROMURubEh1MEJXdGNNcXNMdG9PT0ZndGtpZXg1VDBCQ29TU0NyejBvREY2SmJqUk1wVjJLaExsUVVmQjFvZnp0ekN3?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Partido de Flávio Bolsonaro e aliados já reconheceram vitória de Lula",
+      "fonte": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGN5RmVpd2hLaFRjc0xJdEtqZVV0TnltazFkVUVPRFVja1oxWm5uSjdIZGpUMDBFTDgtaERwUzRNZVJOVktCSS1feVdiNWFuQjBSdFhLQkcxUll3RkFSYUtiQ3NTXzZJZGwyTnEyNGdEREMyN0NUM0FvTEZwOTRWQkdmSksyUmR5UlFTYlZnaGMxZWlLajNWWEhXbFpQSlk1dHRONDlnZUd3OUl3eEpScm9aVkdWVzNnSl9HZlBuUWNJZ9IB0AFBVV95cUxORTlxd2M1ZVJFWlFscTVEakpUNXlEWmxzQ0ZldGp4cFUxbmJ6Y2pEUE1FeDRtVjBpeHBNWkhlUVJqbVlGZ2NTdkpaQ2VqZVBWWU9hRG9hVnF3WkU0VFlmd3BDSElwWmpTZFVXSWt6SkoxQjc1cVpPVzNDTmZxQ2g3bFBHSnFDdTJrNmxHckxwTTdsODJYNzR3aTdUblJkdWN0LVZ6UVpCOXo1SVJjLTBjb1FMZUxQaGJiSERDei1fQzFoYWp4LTVraUludXlSNGZT?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Em carta golpista, Flávio Bolsonaro se declara presidente eleito dos Estados Unidos do Brazil",
+      "fonte": "JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGNDTmNjX3VfV3JhaEt3Q2dVTlM4YzU5Q1cyendCVnJNNmxzb3M4NFIyZmhWWnRFRzlwZjRWckpEd2o2MkVJcGl1VE41bDBHUEFTajR6d05XcXktelhuX3JodmphZzNwRWFBWjFXTW9lMGRRQUtoMVkyQ2tNdjBOczVKNlpjbC1JWEdUMC1vbWhfTUp6RU8taGNLRFpEbnd0N0FWN25hbGdGZkNqcHF0QVlVNFpIWFpSb0Nz?oc=5"
     }
   ],
   "indicadores": {
@@ -404,7 +408,8 @@
         "De noite, a Direção de Migrações da Argentina confirmou: Flávio, a mulher e as filhas cruzaram a ponte entre Foz do Iguaçu e Puerto Iguazú às 22h50, com documentos válidos, e às 23h30 embarcaram num jatinho fretado para Guayaquil, no Equador. Depois de reabastecer, o avião seguiu para a Flórida.",
         "Nesta quarta (28/10), às 10h25, o avião pousou no aeroporto executivo de Opa-Locka, em Miami. Os EUA dizem que estão emitindo vistos para a família; entrar com visto não é o mesmo que receber asilo, e não há pedido formal confirmado. Lula disse que quem sai escondido do país 'deve alguma coisa'. Rogério Marinho, coordenador da campanha do PL, disse que não foi avisado.",
         "À tarde, a PF informou que Flávio não é considerado foragido nem é alvo de mandado de prisão: para a corporação, as restrições aos passaportes, sozinhas, não tornam alguém foragido. A PF diz que não há registro oficial da saída dele nos postos de fronteira brasileiros e que apura como ele deixou o país e o descumprimento das ordens. Moraes ainda não decidiu sobre o pedido de prisão feito por deputados do PT.",
-        "Perto das 17h, Flávio divulgou uma carta em que se apresenta como 'o verdadeiro presidente eleito do Brasil', fala em fraude e abuso de poder na campanha de Lula, nega ter fugido e diz que vai coordenar a oposição de fora, citando Rogério Marinho. Ele atribuiu à prorrogação do horário de votação, decidida pelo ministro Zanin, mais de 10 milhões de votos; segundo o TSE, só cerca de 34 mil votos foram registrados depois das 17h. O ministro Guilherme Boulos disse que o caso é assunto da Justiça e da PF."
+        "Perto das 17h, Flávio divulgou uma carta em que se apresenta como 'o verdadeiro presidente eleito do Brasil', fala em fraude e abuso de poder na campanha de Lula, nega ter fugido e diz que vai coordenar a oposição de fora, citando Rogério Marinho. Ele atribuiu à prorrogação do horário de votação, decidida pelo ministro Zanin, mais de 10 milhões de votos; segundo o TSE, só cerca de 34 mil votos foram registrados depois das 17h. O ministro Guilherme Boulos disse que o caso é assunto da Justiça e da PF.",
+        "À noite, reportagens disseram que integrantes da cúpula da PGR consideram a ordem de Moraes precipitada e feita sem ouvir o Ministério Público, mas a PGR não se manifestou oficialmente e uma prisão dependeria de nova decisão judicial. Aliados de Flávio anunciaram uma entrevista coletiva em Miami nesta quinta (29/10)."
       ],
       "cadeia": [
         "Flávio perde o 2º turno e anuncia ações de cassação no TSE",
@@ -415,7 +420,7 @@
         "Nos EUA, Flávio se declara presidente eleito e fala em fraude; governo diz que é caso de Justiça"
       ],
       "porque": "Moraes viu risco de fuga num inquérito em que Flávio é investigado, com o advogado Willer Tomaz, por suspeita de lavagem de dinheiro ligada a empresas de apostas; os dois negam irregularidades. A decisão citou a fala de Eduardo Bolsonaro sugerindo a saída do país. Flávio diz que é perseguição e que nunca planejou sair.",
-      "outraLeitura": "Flávio e aliados dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; na carta ele diz que não fugiu, que não há mandado contra ele e que a eleição foi fraudada. O pastor Silas Malafaia defendeu a viagem. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, Boulos afirma que ele saiu para não responder pelos crimes investigados e deputados do PT pedem prisão. O TSE certificou o resultado e diz que a prorrogação do horário não afetou a contagem. Segundo a imprensa, até ministros do governo acharam a ordem de Moraes precipitada, e a cúpula do PL, que reconheceu o resultado, diz que não foi avisada da viagem. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades.",
+      "outraLeitura": "Flávio e aliados dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; na carta ele diz que não fugiu, que não há mandado contra ele e que a eleição foi fraudada. O pastor Silas Malafaia defendeu a viagem. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, Boulos afirma que ele saiu para não responder pelos crimes investigados e deputados do PT pedem prisão. O TSE certificou o resultado e diz que a prorrogação do horário não afetou a contagem. Segundo a imprensa, até ministros do governo e integrantes da cúpula da PGR acharam a ordem de Moraes precipitada, e a cúpula do PL, que reconheceu o resultado, diz que não foi avisada da viagem. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades.",
       "cenarios": [
         {
           "tipo": "base",
@@ -434,6 +439,14 @@
       ],
       "bolso": [],
       "fontes": [
+        {
+          "nome": "NC News (críticas na PGR)",
+          "url": "https://ncnews.com.br/2026/10/28/moraes-flavio-criticada-integrantes-pgr/"
+        },
+        {
+          "nome": "Gazeta do Povo (o que se sabe)",
+          "url": "https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/"
+        },
         {
           "nome": "SBT News (PF: não é foragido)",
           "url": "https://sbtnews.sbt.com.br/noticia/politica/pf-flavio-nao-e-foragido-nem-alvo-de-mandado-de-prisao"
@@ -492,32 +505,19 @@
         }
       ],
       "indicadores": [],
-      "atualizadoEm": "2026-10-28T17:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Argentina confirma que Flávio passou por Puerto Iguazú às 22h50 de terça e voou para o Equador; o avião deve seguir para os EUA."
-        },
-        {
-          "hora": "11h",
-          "texto": "Avião com Flávio e a família pousou em Miami às 10h25; Moraes ainda não decidiu sobre o pedido de prisão."
-        },
-        {
-          "hora": "17h",
-          "texto": "PF diz que Flávio não é foragido nem alvo de mandado; em carta, ele se declara 'verdadeiro presidente eleito' e fala em fraude."
-        }
-      ],
+      "atualizadoEm": "2026-10-28T23:00:00-03:00",
+      "atualizacoes": [],
       "referencia": {
-        "dolar": 5.35,
-        "ibov": 170936.97,
+        "dolar": 5.34,
+        "ibov": 171006.1,
         "selic": 13.75
       }
     },
     {
       "id": "bolsa",
       "tema": "Bolsa e dólar",
-      "titulo": "Bolsa cai perto de 3% de novo, com bancos e varejo em baixa; Fed mantém juros",
-      "chamada": "Depois do tombo de 13,88% na segunda e da pausa de terça, o Ibovespa voltou a cair forte nesta quarta, para a casa dos 171 mil pontos. Entenda o que explica e o que pode acalmar o mercado.",
+      "titulo": "Ibovespa fecha em queda de 2,68%, no menor nível desde agosto; dólar a R$ 5,34",
+      "chamada": "Depois do tombo de 13,88% na segunda e da pausa de terça, a bolsa voltou a cair forte nesta quarta, puxada por bancos e construtoras. Entenda o que explica e o que pode acalmar o mercado.",
       "data": "28/10/2026",
       "inicio": [
         "Na segunda (26/10), primeiro pregão depois do 2º turno, o Ibovespa fechou em queda de 13,88%, aos 176.608 pontos, o pior dia desde março de 2020. Na mínima chegou a cair mais de 17%, e a B3 parou o pregão por 30 minutos (circuit breaker).",
@@ -526,7 +526,8 @@
         "Na terça (27/10), o mercado deu uma pausa: o Ibovespa fechou em queda de 0,51%, aos 175.710 pontos, depois de subir até 178.526 de manhã. O dólar caiu 0,97%, para R$ 5,35. O Banco Central ofereceu swap cambial de até US$ 4 bilhões e o Tesouro recomprou R$ 16,8 bilhões em títulos atrelados à inflação.",
         "Ainda na terça, o ministro Durigan prometeu enviar ao Congresso um projeto de lei complementar para que os bloqueios de gastos mirem o centro da meta fiscal, e não o piso. Os juros futuros fecharam em forte queda, devolvendo parte da alta pós-eleição.",
         "Nesta quarta (28/10), o Ibovespa abriu estável, mas virou para queda forte: às 13h06 estava em 170.937 pontos (-2,72%) e chegou a cair perto de 3% à tarde. Bancos pesam, com o Santander em baixa após o balanço, e empresas que dependem de crédito, como varejo e construtoras, lideraram as perdas (Magazine Luiza e Cyrela caíam cerca de 9%). Exportadoras como Suzano e WEG subiam. O dólar oscilou perto de R$ 5,35.",
-        "Às 15h, o Fed manteve os juros dos EUA entre 3,75% e 4% ao ano, como o mercado esperava. Os analistas apontam que a pressão aqui vem mais de dentro: dúvidas sobre quem será o ministro da Fazenda e sobre o plano de gastos do 4º mandato, com os juros futuros voltando a subir."
+        "Às 15h, o Fed manteve os juros dos EUA entre 3,75% e 4% ao ano, como o mercado esperava. Os analistas apontam que a pressão aqui vem mais de dentro: dúvidas sobre quem será o ministro da Fazenda e sobre o plano de gastos do 4º mandato, com os juros futuros voltando a subir.",
+        "No fechamento, o Ibovespa caiu 2,68%, aos 171.006 pontos, terceiro pregão seguido de perdas e o menor nível desde 20 de agosto. Bradesco (-6,7%), BTG Pactual (-6,5%) e Cyrela (-6,5%) estiveram entre as maiores quedas; WEG subiu 2,25%. O dólar terminou em leve baixa, a R$ 5,34. Segundo a B3, estrangeiros tiraram R$ 2,8 bilhões da bolsa na segunda."
       ],
       "cadeia": [
         "O mercado apostava na vitória de Flávio e comprou muitas ações",
@@ -566,6 +567,10 @@
         "Em momentos assim, renda fixa pós-fixada (atrelada ao CDI) costuma ser vista como mais defensiva"
       ],
       "fontes": [
+        {
+          "nome": "BM&C (fechamento 28/10)",
+          "url": "https://bmcnews.com.br/economia/ibovespa-cai-268-e-dolar-fecha-em-leve-baixa-a-r-534/"
+        },
         {
           "nome": "TradeMap (destaques 28/10)",
           "url": "https://trademap.com.br/noticias/news-8526206"
@@ -631,24 +636,11 @@
         "dolar",
         "ibov"
       ],
-      "atualizadoEm": "2026-10-28T17:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Fazenda promete pacote por lei complementar para buscar o centro da meta fiscal; hoje o foco é o Fed e o nome do ministro."
-        },
-        {
-          "hora": "11h",
-          "texto": "Ibovespa cai cerca de 2%, para perto de 171,7 mil pontos, com bancos em baixa após o balanço do Santander; dólar perto de R$ 5,35."
-        },
-        {
-          "hora": "17h",
-          "texto": "Ibovespa chega a cair perto de 3%, na casa dos 171 mil pontos, com varejo e construtoras em baixa; Fed mantém juros dos EUA entre 3,75% e 4%."
-        }
-      ],
+      "atualizadoEm": "2026-10-28T23:00:00-03:00",
+      "atualizacoes": [],
       "referencia": {
-        "dolar": 5.35,
-        "ibov": 170936.97,
+        "dolar": 5.34,
+        "ibov": 171006.1,
         "selic": 13.75
       }
     },
@@ -705,12 +697,7 @@
       ],
       "indicadores": [],
       "atualizadoEm": "2026-10-28T17:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "17h",
-          "texto": "Governo divulga balanço de 45 casos e 10 mortes e aciona PF e PGR."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 170936.97,
@@ -765,6 +752,10 @@
       ],
       "fontes": [
         {
+          "nome": "Leia Sempre Brasil (pacote fiscal)",
+          "url": "https://leiasemprebrasil.com.br/2026/10/28/lula-deve-encaminhar-pacote-fiscal-ao-congresso-e-o-nome-de-rodrigo-pacheco-ao-stf/"
+        },
+        {
           "nome": "NeoFeed (Lula 4 e o mercado)",
           "url": "https://neofeed.com.br/poder/lula-4-acena-ao-mercado-mas-so-discursos-bastam-para-ancorar-as-expectativas/"
         },
@@ -817,24 +808,11 @@
         "dolar",
         "selic"
       ],
-      "atualizadoEm": "2026-10-28T17:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "Durigan promete pacote fiscal por lei complementar; o nome do novo ministro ainda não foi anunciado."
-        },
-        {
-          "hora": "11h",
-          "texto": "Proposta da Fazenda prevê ampliar a parte do orçamento que pode ser bloqueada; Fonteles diz que não tratou do cargo com Lula."
-        },
-        {
-          "hora": "17h",
-          "texto": "Ainda sem anúncio; imprensa cita Alckmin, Fonteles e Haddad como cotados e economistas cobram sinal fiscal ainda em 2026."
-        }
-      ],
+      "atualizadoEm": "2026-10-28T23:00:00-03:00",
+      "atualizacoes": [],
       "referencia": {
-        "dolar": 5.35,
-        "ibov": 175710.05,
+        "dolar": 5.34,
+        "ibov": 171006.1,
         "selic": 13.75
       }
     },
@@ -848,7 +826,8 @@
         "A Selic está em 13,75% ao ano, depois de cinco cortes em 2026. A próxima decisão do Banco Central é em 4 de novembro.",
         "A inflação de 12 meses chegou a 4,58% em setembro, acima do limite da meta (4,5%). Depois da eleição, os juros futuros longos saltaram para perto de 15,2% ao ano. Na terça fecharam em forte queda, com a ação do Tesouro e investidores atraídos pelas taxas altas: o DI jan/27 terminou em 13,64% e o jan/31 em 14,85% (era 15,28%).",
         "À tarde, o presidente do BC, Gabriel Galípolo, disse que o banco não comenta eleição nem Copom e que pretende anunciar ainda em 2026 novas medidas para quem está endividado em crédito caro, como o rotativo do cartão.",
-        "Nesta quarta, os juros futuros voltaram a subir: o DI jan/31 passou de 14,91% para cerca de 15,11% por volta das 13h, depois de tocar 15,29%. Às 15h, o Fed, agora presidido por Kevin Warsh, manteve os juros dos EUA entre 3,75% e 4% ao ano, como esperado; parte dos economistas ainda vê chance de alta em dezembro por causa da inflação americana."
+        "Nesta quarta, os juros futuros voltaram a subir: o DI jan/31 passou de 14,91% para cerca de 15,11% por volta das 13h, depois de tocar 15,29%. Às 15h, o Fed, agora presidido por Kevin Warsh, manteve os juros dos EUA entre 3,75% e 4% ao ano, como esperado; parte dos economistas ainda vê chance de alta em dezembro por causa da inflação americana.",
+        "No fechamento desta quarta, os juros futuros terminaram sem direção única: o DI jan/28 subiu para 14,63% e o jan/31 para 14,97%, enquanto o jan/29 ficou estável perto de 14,75%. Analistas citam a falta de sinal claro de ajuste fiscal e a possível cobrança de IOF sobre LCI, LCA e debêntures; a queda dos juros americanos de curto prazo aliviou parte da pressão."
       ],
       "cadeia": [
         "Inflação acima do teto da meta",
@@ -884,6 +863,10 @@
         "Para guardar dinheiro, aplicações atreladas ao CDI ou à Selic rendem bem nesse cenário"
       ],
       "fontes": [
+        {
+          "nome": "O Povo/Estadão (DI 28/10)",
+          "url": "https://www.opovo.com.br/noticias/economia/2026/10/28/taxas-de-juros-encerram-sem-direcao-unica-digerindo-fed-e-sinalizacoes-do-governo-lula.html"
+        },
         {
           "nome": "Times Brasil (DI 28/10)",
           "url": "https://timesbrasil.com.br/brasil/ibovespa-cai-mais-de-2-com-incertezas-sobre-lula-4-e-espera-decisao-fed/"
@@ -933,24 +916,11 @@
         "selic",
         "ipca"
       ],
-      "atualizadoEm": "2026-10-28T17:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "6h",
-          "texto": "DIs fecharam terça em forte queda (jan/31 a 14,85%); hoje o Fed decide os juros dos EUA."
-        },
-        {
-          "hora": "11h",
-          "texto": "DIs sobem cerca de 0,1 ponto antes do Fed; jan/31 a 14,99% no início do dia."
-        },
-        {
-          "hora": "17h",
-          "texto": "Fed mantém juros dos EUA entre 3,75% e 4%; aqui o DI jan/31 sobe para cerca de 15,11%, com dúvidas fiscais."
-        }
-      ],
+      "atualizadoEm": "2026-10-28T23:00:00-03:00",
+      "atualizacoes": [],
       "referencia": {
-        "dolar": 5.35,
-        "ibov": 170936.97,
+        "dolar": 5.34,
+        "ibov": 171006.1,
         "selic": 13.75
       }
     },
@@ -1037,12 +1007,7 @@
         "dolar"
       ],
       "atualizadoEm": "2026-10-28T11:55:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "11h",
-          "texto": "Brent sobe para cerca de US$ 111 com ataque a refinaria saudita; subsídio vale até 26/11."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.35,
         "ibov": 175710.05,
@@ -1250,7 +1215,7 @@
     }
   ],
   "robo": {
-    "atualizadoEm": "2026-10-28T13:06:52-03:00",
+    "atualizadoEm": "2026-10-28T22:00:33-03:00",
     "ok": [
       "BC selic",
       "BC cdi",
