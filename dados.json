@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-10-30T17:45:00-03:00",
-  "alerta": "Ibovespa fecha a sexta (30/10) em queda de 0,75%, aos 167,9 mil pontos: 5º pregão seguido de perdas e queda perto de 18% na semana, a pior desde 2020. Dólar sobe 1,1%, a R$ 5,44. Flávio segue nos EUA e deve pedir asilo; Moraes ainda não decidiu sobre os pedidos de prisão.",
+  "atualizadoEm": "2026-10-30T23:05:00-03:00",
+  "alerta": "Em live do exterior, Flávio Bolsonaro volta a questionar a eleição sem apresentar provas e fala em 'novas eleições' antes de 2030; Moraes ainda não decidiu sobre os pedidos de prisão. Ibovespa fechou a semana com a pior queda desde 2020 e o dólar a R$ 5,44.",
   "eleicoes": {
     "candidatos": [
       {
@@ -146,6 +146,10 @@
         "texto": "Reuters, citando fontes anônimas, diz que o governo Trump não pretende apoiar Flávio como líder do Brasil, mas pode mudar de posição. Segundo o Metrópoles, a defesa dele vai alegar perseguição e tenta tirar de Moraes o inquérito de lavagem de dinheiro."
       },
       {
+        "data": "30/10",
+        "texto": "À noite, em live no Instagram, Flávio diz que saiu 'pelo' Brasil, questiona o resultado sem apresentar provas, fala em novas eleições antes de 2030 e apoia Rogério Marinho para presidir o Senado. Segundo o TSE, 107 países já reconheceram a vitória de Lula."
+      },
+      {
         "data": "05/01/27",
         "texto": "Posse do presidente eleito.",
         "futuro": true
@@ -154,13 +158,13 @@
   },
   "mercado": {
     "ibov": {
-      "pontos": 167664.83,
-      "var": -0.9,
+      "pontos": 167921.8,
+      "var": -0.75,
       "anterior": 169186.42,
       "minimo": 167007.56,
       "maximo": 169184.6,
-      "hora": "30/10 16h28",
-      "ts": 1793388486759
+      "hora": "30/10 20h51",
+      "ts": 1793404277858
     },
     "acoes": [
       {
@@ -170,38 +174,38 @@
       },
       {
         "ticker": "VALE3",
-        "preco": 61.79,
-        "var": 2.9
+        "preco": 62.02,
+        "var": 3.28
       },
       {
         "ticker": "ITUB4",
-        "preco": 38.88,
-        "var": -1.67
+        "preco": 38.69,
+        "var": -2.15
       },
       {
         "ticker": "BBDC4",
-        "preco": 13.95,
-        "var": -1.48
+        "preco": 13.86,
+        "var": -2.12
       },
       {
         "ticker": "BBAS3",
-        "preco": 16.51,
-        "var": 0.3
+        "preco": 16.47,
+        "var": 0.06
       },
       {
         "ticker": "WEGE3",
-        "preco": 48.63,
-        "var": -1.32
+        "preco": 48.36,
+        "var": -1.87
       },
       {
         "ticker": "SUZB3",
-        "preco": 49.89,
-        "var": 0.34
+        "preco": 50.14,
+        "var": 0.84
       },
       {
         "ticker": "B3SA3",
-        "preco": 13.4,
-        "var": -5.63
+        "preco": 13.43,
+        "var": -5.42
       }
     ],
     "juros": [
@@ -212,13 +216,13 @@
       },
       {
         "nome": "DI jan/2028",
-        "taxa": 14.405,
-        "var": 0.08
+        "taxa": 14.485,
+        "var": 0.117
       },
       {
         "nome": "DI jan/2031",
-        "taxa": 15.23,
-        "var": 0.18
+        "taxa": 15.21,
+        "var": 0.055
       },
       {
         "nome": "DI jan/2033",
@@ -235,18 +239,18 @@
       {
         "sigla": "USD",
         "nome": "Dólar Americano",
-        "valor": 5.4559,
-        "var": 1.32
+        "valor": 5.4397,
+        "var": 1.02
       },
       {
         "sigla": "EUR",
         "nome": "Euro",
-        "valor": 6.0896,
-        "var": 1.2
+        "valor": 6.0679,
+        "var": 0.84
       }
     ],
-    "acoesTs": 1793388486759,
-    "moedasTs": 1793388486759,
+    "acoesTs": 1793404277858,
+    "moedasTs": 1793404277858,
     "moedasFonte": "Yahoo"
   },
   "combustiveis": {
@@ -297,39 +301,39 @@
   "noticias": [
     {
       "cat": "economia",
-      "titulo": "Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
+      "titulo": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
       "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUWxiUHY1SWVvdFBKcTNQZmxPajc4dEtqdk43OXV4WmplLVhQRlJkT2VJUU84N0EyT1JnSzZsekd6bnlaY3hSSWt2cUpWVUcxc1hPd19BakdMYVcxQ3Q5OG5PWW9NWjFtSmZaTWJnS0pocnFFRTdPNFNpdk56UU1ISjczQ0k4bXg4a0hvblBUM0hKRzladElZemtkVE01Mm5RVWNGOGZIaXdJU29MN3RMLVN3aVZ3bDVIWkFmajFuTnVTUGR5LWcxVkV4SVk5S184UU94VFBJYXo2c0swNG5pRk8zZm1WQXhVWFdPV0RrVDlJZ9IBgAJBVV95cUxOajNSOWJaa0JYRzBDTFo3ZXhmam5pcE1lMzljTEJnQ18xbFd1MlRlQVJmUEtEZ2NrbmxWUGtNWWtndFJKZXR2c09WSmNVU3RmdjNnRFo5YUtRU1lyT1FWRExDbGFKYURYRl9oTjdJZ0NsX2M4OHg0b0owUWNVbDVXaVdBaVJwcUVkUkM3TUpIaUJ5Sl9IQl9VS1FzbXcyZ3dfXzZDVHp4TUY2SFc3Mm84QWMxWWNjTU1JdkVrSmN5X1dMaE9laXRiYnlMU1E4czMzRGtjYUtpS2JiTXJhNlRDZ19ZU3VvQktjT28yS0hQT09NZV83SG9hWVpuSzF3QUE4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWXpVSnZRclRQZ2lJaHVSSUdRa3MycjBpeXZkc1ItYS1IRlZjNzZGVXZ6SFd4c2s5NmU2R1VwdjNqYzZSSzBRc19tcjEtZlFib0Nkck5aMEVSQ3VzblNyWHRSSkJ0TE9IbEhzbU1tdFVpb1BRMmw3TzRDZG54ckxoTU9CeE40RkFMbTRfaldfUzc5NW9VckJKczF1SW9lZDYwaWxjNDFnU1FNZ01hdmtYVWxtVGRKekNMTTVFZ2hHOTM4R09KWDU0em5sVUl2amcyRU9ZaU5URGxCQTRkVUVjVE5MZElUVTI5QmI1R2lKazRMVEVoTXdLVVlTU3DSAYsCQVVfeXFMUEl5TjJDbVJLRDI0cGtMR21naEZLb0paUmxnTWNsMU52cmp5U0k3NjNCS3dIRmg3ckpVaUVDQWdmT3E3S3dzbXRsbTJJUmFHbUowMjZCYnB5VzFYM3RRejl1dTc4SFpOWExBcV9MYW9Jcm5nLURKVHU1QklQMHBMOGV3Nk1FdDZBT2lLWjJJYnRfTDJ2bnpuQWtzUE1VVlpvLWZvTHRRT1AxaHYyakhNMmVzdXdhdDItejJfamhVdDlHdGJRWG5jSEd6ZnZCSWxGdmlITXhSLUxpLWhTcjY3OFZfNzV1T2NtS3UxcEpWczllMWFGQUZ6UTU5bmxrRTVvWlMzTm8ybXY3TFNV?oc=5"
     },
     {
       "cat": "economia",
-      "titulo": "Desemprego cai para 5,2% no Brasil e registra menor nível em 14 anos, diz IBGE",
-      "fonte": "Jovem Pan",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VtTDNpTmJidk9jWG13MTZ5N1ZXckJnTnZBZEowXzNGb0hGTVhycmNkTjhUN1dmYjVra19tdXYyWDdDUmN1dHAtOWhhR2tHLThqMFYzMVF3T04zdVk4RTdmdHRxVEFIeV8tRTdGWVc3UWRoUEpIRFBkazlaaUVjMHJucHlyYkQyQjU1NlREU09hN0FoR2ZQWEJwSVdvY0M1LVQ3TlRRemZfT1J5VEE?oc=5"
+      "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro",
+      "fonte": "G1",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM29QWHlmT0FWTWVaZF91ZjdSM3ZZOXpITm1aWDd4Z0EtV3VFMXZpUkluWjNqQXRTNkNoYU42NktRLWFNTGpvNEZwRnFqdHQ0c1hjQTh2M0t4MllXNmhLWlFjQlhBNUliVkRldFBEWlBoSjU5cFpqaWhTWmplZVJnUXFsU2V3UzFCLWtIZG9fY25ycVJNREdoS2JsUXVVcjV5bHlwbHNvVTRHR0NyWnhRd20zUk1XSHFfdDhrb0FMb9IBzgFBVV95cUxNT2FSa19HR3RhN1ZRSFBWSzhDWUE5TkMxM3NLUDhnUDVnZzhsa0hGV18ybmN5OTVCcVFlQXlYTzFmdEdXT1lYdjY2cG5NaHd0c2p3VUwwNW1IUTdYV0JkaUdBbEM0WWQwbFRNaE5Hc29CYmlwSk1kakZwTUQyclpTSXhPM3VZVWdrWUFqeFBjQWFPYUhKY3Fsd0o1U3lSMkxjUDhJNDRfRkRNMkRJaXNtX2dfenBubHJ3ZVFyb245YVdobE5Dbk9jY3ZSUjNkdw?oc=5"
     },
     {
       "cat": "economia",
-      "titulo": "Maior desafio de Lula 4 será aprovar reformas no Congresso, diz Moody’s",
-      "fonte": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGhKYUhuRENldXdPQkFJU3dSeTZ5UGRvT1lBTDBtVWNtbFBtemdxeXNNY2VaWDE4aW5DSEw2WUo3LXA3RDM2YmNSZUlhUmZUbHZSMzZUenJNdXItMjFPZVI3SFFsLTFNSGhfSmt1a3RzeTM0U29BOXplTW5Wdk96aWxNS1Jlc19kSzBkZXhYbXBHRlZ0RWx5TFVVWVFwMUV0cFNVeEJGdnB5c1RzSzg0WldQb0JxMC1Ka0EwZFU1bm5zTXJ3VWhN?oc=5"
+      "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
+      "fonte": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5"
     },
     {
       "cat": "brasil",
-      "titulo": "Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto",
+      "titulo": "Itamaraty convoca diplomata argentina, mas evita transformar fuga de Flávio Bolsonaro em crise com Milei",
+      "fonte": "CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2RVbDFwa2M5NUcxSVNfNHpVVmpiaXJibl9XckhxUVNmR0tlMGxDTlBzTUwxT1BjbDViMGNzbXFxMGwxUW9FZThaRUJHUndaYW52OEN5TzZLYnJFbkR2NUQyVnBJNjJQZ0k4OEVRSml2S1dkc2Q5TVhEd2VSZE83U1YyeHJFZmVaLUlZbkozUWx2WVFwR2xDc3F2T3diSTQxLVJud0pWcUp6RUZXM0NrOFJldTZTbjlIcFFwZ09xNmhXRmNudVBrVUZlM1hiamxQV080dXNJeG1sbjhNVkE?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Nikolas Ferreira critica projeto do PT sobre discriminação política",
+      "fonte": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlo1VFFnTG9UZFUwb3hPa3BQWmczcVBZejhqRkx5MkhzOUN3dEM1QS1hX0dlRWd1Z3NydnBSNDlwRFZTbFg5Vlg3RWo2QzBkYkl4TllNcXRwQWxlODJtVF9zQW5lTFlWUXFHU3JIdnBwRzJmQ3FqZWdoYTVmODV3OEo3aW16MktPQ1N5VFNkNjQ4d2ljLXVsZmM3cld6TFZUaE1DMDJtOXFrREhmUERSaUFR?oc=5"
+    },
+    {
+      "cat": "brasil",
+      "titulo": "Mauro Vieira e Marco Rubio se encontram no G20 e acertam reunião em novembro",
       "fonte": "G1",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanBsZDhqVUV3OTl1VjZwTVR4ZzltM1VWQUJrQm0teEhUZElCWE9ONDVxY0lfMGVBSDRUMU1Zb05GX056TjRaVkRJY0VLVjBQRlNTalFEdGh3aVU4eS1YWVVkRmptRUZRaUtIUVhHVjd4b3ZBRUlkXzNMcFdPRGRQa2tEODM2ZXltcjR0RElqRU44MTlkajRUTTBTc0kydTI2bUs0RDBpWlJhaW9vVkNWbFZKZWlyWkJUS2ZZbUxzV1ZxWnZwVEdR0gHWAUFVX3lxTFBYUU1ZMnpYZVZwR21TanBscU5jb3JRYUtvbkVMdVZTc0JEbWVPZHkzR2tRVzZ2dVllY1VYeWtLZEV2S1lxWUZzSDZ5Y0Q3OTVqM1FoTzA5Rl9xQ19wc25wbGgxYlNuSkhYMkctY3JBQ2Rwd0FfYkRnR19FSFdUUGhQWUZvMDNLMUg0bkgxcUw3RXRDYk5vczFXei1WMWppS3dyTDhYNlFOdXVZUnJZZG5Jd25acnlzN3ZkbG1XM0NlRGllM3hYUHBXaDFULXdMUzRTSW1LNWc?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "PT propõe prisão e multas contra perseguição política no trabalho",
-      "fonte": "Partido dos Trabalhadores",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01RM2NDa1JJUDBoUGxwYWMtVXdCcV9NM2JHazlrTzg4TVJBcE1oV0VobnhuV2pvMnlFMWs5Vk50UWF2SWhqRGhpbVRCelNpTjFOZ09NNkdfbnBWRmJHbi1fUTdsU1AzaDlKNWRVdlVRWEhpZktsd2dzMm5xZE5JeTV0VDFhYkJ6UndFTtIBlAFBVV95cUxQaFYwN0JZNDRKb3VuTTU2aVp3X0xxYkdmZmRqXzVwLXRjazNOT0VudWtMLXVQaEkzVWtQdnhOdC1ZVGxEb2xPNXBFR1NGWGdKSnE3MTgyMHREZ29iMERwaVVLUV9WSVpnV3VneXQzTWRoR0hNenBLZ2NyeENKdW04ajZvLVZJUF9GM2xFQTBBbi16a2JV?oc=5"
-    },
-    {
-      "cat": "brasil",
-      "titulo": "Dono de Porsche que matou motorista de aplicativo é condenado a 17 anos de prisão",
-      "fonte": "Jovem Pan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0VZVFlkX0RhOFBLczI4VmFzeHFpR0NUdElfalMyWlVCT2V0R1dHRG9kakZSdHlxMm5MRHpmMzEzenlzakVJRmhrdG8zRm1SWDROQndiSXNneXR2S2xMcmE4MEZMeF9YdktQTm0zaVNUbTF0WWhjdld1QV9MSk1RdkR3dTQ5ekZ3N1pNQ25hMDJrMzA5RzRYRU5OX0pQRkF0cHZaTGczUkRHRjJxYkpxNElKaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUNDR1NYUU0tTFEyMGV6WDFSQWloTlE4S3ZkR0tVaTBTRl9ZbUJjLU8xUWZuQllrSFQxbXlQMGpEZms1NnV0d3pDTDNXTllWVkFrYVhyWXVkOUtRX21VM0dIVUI4NlZpcWJKWkgxdzN2aVRCT21PQUgxNXhaSm5vYkJ4MVp0NWJhZkxsZFYtbzgzWE5nVDVpRXgzZ19nSFlXLUVHN01FUHlTUDByM2VTQnNPZ0RSeTBHSHFXWENPSVYwUVpuMndobzExb9IB2gFBVV95cUxOcEFfek4wYnROT0RFdlhLU2RUUWhzMzQtaTJ2em5hVmtCbXBDVnZHcmpWUzg2VGxkbDRFMzhpemtlUWFDd1cyUnBCUHVTNXdzbG83Q3RWX3UzZ2RwTG9NT0N3eVJWZDFMN2puSnJUSFNqOThobjF0VkJaZHc5RHVOTXNlZVdGRXhqMkxCN2lSWU0yWDFxVkdFeDUwM0swRlhLZzd6T0JlMjl0WFo1c25nOGp0LTBkQ1VJWDlGWWxwTVRQTGlfYk1FRXUtVk56SlNkQkNIRU15V25sZw?oc=5"
     },
     {
       "cat": "politica",
@@ -339,9 +343,9 @@
     },
     {
       "cat": "politica",
-      "titulo": "Lula vai procurar centrão e condiciona indicações para ministérios a votos no Congresso",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRi1UWmlSclFyc0JpMU1VcHdNNVMwa0dLQXFQOGd5NWliVkhxbDZIQ0Z0VUt3XzF3MzFEYWUwcHdSNkhIQThVOTFfN1dtczNjb25FdWc0RTFvZkp0eXhna3lueERJSC1QVUROejlfX0VqNjNiSEozNjQ5Z09iRTFLTWFjMk1UU05LRkczTHZaNmVFMjMxUlpJcnNENF9yV2l2MVVmM09mQWpaRnNicDFWSmVacGRBSlZIbVI3c2FZdVdrZUdhNy1CS2JrM0Z1Ni14czZn?oc=5"
+      "titulo": "Novo governo dependerá ainda mais do Centrão",
+      "fonte": "FecomercioSP",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUpVWmtqdEZsSHRObmN6VzZ5S293bU43WTE4dFJVSjN5dGNIaFMyMTFYYm1ycVVmNmJIbjhScWQ5RDlJdjVOSldtXzQxWE9oeTl2MktPRHdveDFGWHA4V1VNLWtMdFpzaGpGU1ZFejdSQW5XZGYzWFhldWNiaDdvVktFbF8?oc=5"
     },
     {
       "cat": "politica",
@@ -351,21 +355,21 @@
     },
     {
       "cat": "eleicoes",
+      "titulo": "Nem fraude, nem milagre: a aritmética da virada de Lula",
+      "fonte": "JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVBhZkZ2SmM2ME52X0ZkLW9DOURpT3FaLWhWS0FNenpjdFNQb3lLTkhzTHg3a2c5bjR6cVRVcWEyZEtzSHFDa1NiWUJzd3paSElCMnJCdkFPOENEdDQ4SUVTTzNOY1Y5a3hlbTgxLVozeWRDOGNRazBCQkJWUGY2UnNLVkUySUhPUFNZQVg1OV8ySmJMZTN6T1A4SHZ6Qm8?oc=5"
+    },
+    {
+      "cat": "eleicoes",
+      "titulo": "Batalha judicial no TSE entre Lula e Flávio Bolsonaro continua mesmo após eleição",
+      "fonte": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHVlLTIzWVUya1ZSdzFyd0R4MS03TUxiMGJVdGctMldKVXhhcjJMcWpUTEVTRXBxS3lQOExwdFY0aDNOeUdLNENNR0ZTb3lnY0RiVDV2SmxsY3B2V0xKWV9teFNBRXNsbEdFR1BWS0tSR0ZrOWJVSk5VSzNsTnF5VUxLVl94XzBaalRBNXdTUDlNRTNJUmgyM2ZFZTZ3NGRGblFacXducDFPUWNSVXpRWEFWU1hwMnVuejNxbGRn?oc=5"
+    },
+    {
+      "cat": "eleicoes",
       "titulo": "Painel do TSE mostra reconhecimento global à vitória de Lula e isolamento do golpismo de Flávio Bolsonaro",
       "fonte": "CartaCapital",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVpnTk95bkh0cnF3NnJmM09hb2NQemNGS3R1REZ3SEtua25lUjVlZUVIOUt6ZEk1dm9hck51eThrU2gtck5HMVJRV0ZEdkpOZTVyQlZmS2M2aERCa1Q0Q2U1ajdpZ0xqVTBndG5BX21jNldHd1FIV3g1VnNYTGRUSkJYeTR5d0c5U0V1UzZJLXMyemxRM0FwMU5TMG1BazFIQmdSUl90d1lNb2hXNTU1Y3BSWmZ4QWNWdUhCWEJJd254eUxPTHB6T1hGOGx6QlgzSVFqNU5XM1I2ZnNqWFh6UQ?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "'Ele achou que já estava eleito': os erros da campanha de Flávio Bolsonaro no segundo turno apontados por analistas",
-      "fonte": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZQ1YyWlNaaFRONUprRWp2eGZOXzhIS2RTT1BGdTV0ZVIxYTYtak42TEFabFpXR2FXUGpOeENtdE1KV0dGUmN3RnptLU9HSWNHajhibzVubjdOcWJaQ3VoVTFIVdIBaEFVX3lxTFBGUFJVZmJWSHNKRHIwVUtpdXhtZXBwNGRRa1J2RU1VdVJxcThmY3dZQW1vV2RZRkRHTHVZRVdIeHdzSjZfSTNJTkxfb2xGaE00c2M1T2dabjFvVHE5QnotUmFEdXA1ZFMx?oc=5"
-    },
-    {
-      "cat": "eleicoes",
-      "titulo": "Como aliados reagem ao golpismo de Flávio Bolsonaro",
-      "fonte": "Nexo Jornal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEJ1VDVDcEpYSjhHVzNtLXh5RkNCUkxSemVyRUg3LXNSRGNJOVZGZEtfMWlmWUdEVk9wa3I3Z2VTd3EzMEV5ODNtbkNXdmJpUk1iTktRT2VhNkFLdkpqR3JqcE45dGdVZlh5WU8zLXp3MUpyeFRPUjB5Y25vUzJ5ajNteHRrcE1xTDhESlcwZHh2dVJUVmUtdUdjaWZ5WmlUN1Q4TDBIZjNYUHQtdDZpZ0Jn?oc=5"
     }
   ],
   "indicadores": {
@@ -432,8 +436,8 @@
     {
       "id": "eleicao",
       "tema": "Eleições",
-      "titulo": "Reuters: governo Trump não pretende apoiar Flávio como líder do Brasil; defesa dele deve alegar perseguição",
-      "chamada": "Flávio segue em Miami, admitido por razões humanitárias por até 1 ano, e monta equipe de advogados. Moraes ainda não decidiu sobre os pedidos de prisão. O que se sabe e o que cada lado diz.",
+      "titulo": "Em live dos EUA, Flávio questiona a eleição sem provas e fala em 'novas eleições' antes de 2030",
+      "chamada": "Na primeira fala pública desde a carta, Flávio diz que saiu do país por causa de perseguição e pede oposição forte no Senado. Moraes ainda não decidiu sobre os pedidos de prisão; 107 países já reconheceram Lula. O que se sabe e o que cada lado diz.",
       "data": "30/10/2026",
       "inicio": [
         "Lula venceu o 2º turno com 51,79% dos votos válidos, e o TSE confirmou o resultado. O PL reconheceu a vitória, mas Flávio Bolsonaro anunciou ações para cassar a chapa Lula-Alckmin.",
@@ -451,7 +455,8 @@
         "Até o fim da noite desta quinta, Flávio seguia nos EUA sem ter dado a entrevista anunciada e sem pedido formal de asilo confirmado; Moraes ainda não decidiu sobre os pedidos de prisão e de alerta da Interpol. Em áudio enviado a apoiadores, Lula disse que fará um pronunciamento à nação na próxima semana.",
         "Na manhã desta sexta (30/10), não havia novidade oficial: Flávio segue nos EUA, sem pedido de asilo confirmado, e Moraes ainda não decidiu sobre os pedidos de prisão. Na imprensa, ganha espaço a disputa pela liderança da oposição: segundo a CNN Brasil, aliados da família Bolsonaro e do Centrão veem o governador Tarcísio de Freitas como o nome mais bem posicionado, de olho em 2030; o jornal português DN resumiu que a direita vira as costas a Flávio.",
         "No fim da manhã desta sexta (30/10), a agência Reuters, citando uma autoridade americana e outra pessoa a par do assunto, sem identificá-las, informou que o governo Trump não tem planos de apoiar Flávio como líder legítimo do Brasil, embora Trump possa mudar de ideia. Segundo a Reuters, o secretário de Estado Marco Rubio recomendou autorizar a entrada da família, e um assessor de Trump ajudou a organizar a viagem; a Casa Branca e o Departamento de Estado não comentaram. Segundo o Metrópoles, Flávio montou uma equipe de advogados que deve alegar perseguição e tenta levar o inquérito de lavagem de dinheiro de Moraes para o ministro André Mendonça; a reportagem diz que ele deve pedir asilo, mas não há pedido confirmado. Um grupo de advogados pediu à PF que apure o uso do brasão da República na carta. Moraes ainda não decidiu sobre os pedidos de prisão.",
-        "Até o fim da tarde desta sexta (30/10), não houve decisão de Moraes sobre os pedidos de prisão nem pedido de asilo confirmado. A agência Lupa checou que um vídeo de militares americanos rindo, que circula nas redes como um suposto 'resgate' de Flávio, não tem relação com o caso. Aliados de Flávio seguem dizendo que as medidas de Moraes são exageradas e que a saída do país foi uma reação a perseguição; o governo e aliados de Lula dizem que ele fugiu para escapar da Justiça."
+        "Até o fim da tarde desta sexta (30/10), não houve decisão de Moraes sobre os pedidos de prisão nem pedido de asilo confirmado. A agência Lupa checou que um vídeo de militares americanos rindo, que circula nas redes como um suposto 'resgate' de Flávio, não tem relação com o caso. Aliados de Flávio seguem dizendo que as medidas de Moraes são exageradas e que a saída do país foi uma reação a perseguição; o governo e aliados de Lula dizem que ele fugiu para escapar da Justiça.",
+        "Na noite desta sexta (30/10), em live no Instagram, Flávio fez a primeira fala pública desde a carta. Disse que saiu 'pelo' Brasil, e não 'do' Brasil, para ter mais liberdade, que via a ordem de Moraes como início de perseguição e que não contou o plano a ninguém fora da família. Questionou o resultado e a Justiça Eleitoral sem apresentar provas, disse ter perdido para 'o sistema', falou em 'novas eleições' antes de 2030 sem dizer como e não descartou disputar de novo. Pediu que a oposição se concentre no Senado e apoiou Rogério Marinho para presidir a Casa. Segundo o painel do TSE, 107 países e 11 organismos internacionais já reconheceram a vitória de Lula; EUA e Argentina não se manifestaram oficialmente, e Trump criticou a eleição sem apresentar provas. Moraes ainda não decidiu sobre os pedidos de prisão."
       ],
       "cadeia": [
         "Flávio perde o 2º turno e anuncia ações de cassação no TSE",
@@ -459,10 +464,10 @@
         "O prazo vence sem entrega e a PF cancela os documentos",
         "Ele cruza para a Argentina, voa ao Equador e pousa em Miami",
         "PF diz que ele não é foragido, mas apura a saída",
-        "Nos EUA, ele é admitido por razões humanitárias e se declara presidente eleito; o PL não aprova a carta e, segundo a Reuters, o governo Trump não pretende apoiá-lo como líder"
+        "Nos EUA, ele é admitido por razões humanitárias, se declara presidente eleito e, em live, fala em novas eleições; o PL não aprova a carta e, segundo a Reuters, o governo Trump não pretende apoiá-lo como líder"
       ],
       "porque": "Moraes viu risco de fuga num inquérito em que Flávio é investigado, com o advogado Willer Tomaz, por suspeita de lavagem de dinheiro ligada a empresas de apostas; os dois negam irregularidades. A decisão citou a fala de Eduardo Bolsonaro sugerindo a saída do país. Flávio diz que é perseguição e que nunca planejou sair.",
-      "outraLeitura": "Flávio e aliados dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; na carta ele diz que não fugiu, que não há mandado contra ele e que a eleição foi fraudada. O pastor Silas Malafaia defendeu a viagem, e líderes do PL manifestaram apoio pessoal a ele, embora Valdemar tenha criticado a carta. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, Boulos afirma que ele saiu para não responder pelos crimes investigados e deputados do PT pedem prisão. O TSE certificou o resultado e diz que a prorrogação do horário não afetou a contagem. Segundo a imprensa, até ministros do governo e integrantes da cúpula da PGR acharam a ordem de Moraes precipitada, e a cúpula do PL, que reconheceu o resultado, diz que não foi avisada da viagem. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades.",
+      "outraLeitura": "Flávio e aliados dizem que a ordem de Moraes, dada logo após a eleição, é perseguição política; na carta ele diz que não fugiu, que não há mandado contra ele e que a eleição foi fraudada. O pastor Silas Malafaia defendeu a viagem, e líderes do PL manifestaram apoio pessoal a ele, embora Valdemar tenha criticado a carta. Do outro lado, Lula disse que ele deveria ter provado a inocência no país, Boulos afirma que ele saiu para não responder pelos crimes investigados e deputados do PT pedem prisão. O TSE certificou o resultado e diz que a prorrogação do horário não afetou a contagem. Segundo a imprensa, até ministros do governo e integrantes da cúpula da PGR acharam a ordem de Moraes precipitada, e a cúpula do PL, que reconheceu o resultado, diz que não foi avisada da viagem. Flávio não foi condenado; as investigações estão em andamento e ele nega irregularidades. Na live, Flávio repetiu que é alvo de perseguição e que a disputa foi desigual; o TSE e os mais de 100 países que reconheceram o resultado tratam a eleição como encerrada, e a Constituição não prevê nova eleição presidencial antes do fim do mandato, salvo se os cargos de presidente e vice ficarem vagos.",
       "cenarios": [
         {
           "tipo": "base",
@@ -482,6 +487,14 @@
       ],
       "bolso": [],
       "fontes": [
+        {
+          "nome": "Correio Braziliense (live de Flávio)",
+          "url": "https://www.correiobraziliense.com.br/politica/2026/10/7531305-flavio-fala-em-novas-eleicoes-antes-de-2030-em-primeiro-video-apos-fuga-aos-eua.html"
+        },
+        {
+          "nome": "Estado de Minas/Estadão (107 países)",
+          "url": "https://www.em.com.br/politica/2026/10/7531256-mais-de-100-paises-reconheceram-reeleicao-de-lula.html"
+        },
         {
           "nome": "JM Online/Reuters (governo Trump)",
           "url": "https://jmonline.com.br/politica/governo-trump-n-o-deve-apoiar-flavio-bolsonaro-como-lider-do-brasil-diz-reuters-1.679590"
@@ -612,21 +625,8 @@
         }
       ],
       "indicadores": [],
-      "atualizadoEm": "2026-10-30T17:45:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "7h",
-          "texto": "Sem decisão de Moraes até a manhã de sexta; na direita, cresce a discussão sobre quem lidera a oposição, com Tarcísio citado."
-        },
-        {
-          "hora": "11h",
-          "texto": "Reuters diz que o governo Trump não pretende apoiar Flávio como líder do Brasil; defesa dele deve alegar perseguição e tenta tirar o caso de Moraes."
-        },
-        {
-          "hora": "17h",
-          "texto": "Sem decisão de Moraes nem pedido de asilo confirmado até o fim da tarde; Lupa desmente vídeo de suposto 'resgate' de Flávio."
-        }
-      ],
+      "atualizadoEm": "2026-10-30T23:05:00-03:00",
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.44,
         "ibov": 167921.8,
@@ -828,20 +828,7 @@
         "ibov"
       ],
       "atualizadoEm": "2026-10-30T17:45:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "7h",
-          "texto": "Mercado abre a sexta de olho na Pnad (9h), nas contas públicas do BC e na reação ao lucro menor da Vale."
-        },
-        {
-          "hora": "11h",
-          "texto": "Desemprego cai a 5,2%, mas Ibovespa abre em queda pelo 5º pregão e dólar sobe a R$ 5,43, com Nasdaq em baixa e temor fiscal."
-        },
-        {
-          "hora": "17h",
-          "texto": "Ibovespa fecha em queda de 0,75%, aos 167.922 pontos (5º pregão de perdas, pior semana desde 2020); dólar sobe 1,1%, a R$ 5,44."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.44,
         "ibov": 167921.8,
@@ -1041,16 +1028,7 @@
         "selic"
       ],
       "atualizadoEm": "2026-10-30T17:45:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "7h",
-          "texto": "Sem anúncio oficial da Fazenda; PT lista reformas do Judiciário e política e regulação das plataformas como prioridades."
-        },
-        {
-          "hora": "17h",
-          "texto": "BBC Brasil diz que Fonteles deve assumir a Fazenda e que as conversas sobre ministérios começam depois de Finados; ainda não há anúncio oficial."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.44,
         "ibov": 167921.8,
@@ -1071,7 +1049,8 @@
         "No fechamento desta quarta, os juros futuros terminaram sem direção única: o DI jan/28 subiu para 14,63% e o jan/31 para 14,97%, enquanto o jan/29 ficou estável perto de 14,75%. Analistas citam a falta de sinal claro de ajuste fiscal e a possível cobrança de IOF sobre LCI, LCA e debêntures; a queda dos juros americanos de curto prazo aliviou parte da pressão.",
         "Nesta quinta (29/10), os juros futuros marcaram máximas em todos os vencimentos durante o dia, com a falta de nomes para a equipe econômica, mas viraram e fecharam em leve queda depois da notícia sobre o possível convite a Fonteles: o DI jan/28 terminou em 14,33% (de 14,41%) e o jan/31 em 15,05% (de 15,07%).",
         "Na abertura desta sexta (30/10), os juros futuros subiram em toda a curva: às 9h18, o DI jan/28 estava em 14,41% (+0,08 ponto) e o jan/31 em 15,23% (+0,18). Segundo o Banco Central, a dívida bruta chegou a 82,9% do PIB em setembro, o maior nível desde 2021, pressionada pelos juros altos; o setor público teve déficit de R$ 5,5 bilhões no mês. O desemprego de 5,2%, o menor para o período desde 2012, mostra um mercado de trabalho ainda aquecido, um dos fatores que o BC acompanha antes do Copom de 4/11.",
-        "No fim da tarde desta sexta (30/10), os juros futuros longos seguiram em alta, acompanhando o dólar: segundo o BPMoney, o DI jan/31 passou de 15,20% ao ano, refletindo a preocupação com as contas públicas. As taxas curtas ficaram estáveis depois do dado de desemprego, que veio em linha com o esperado."
+        "No fim da tarde desta sexta (30/10), os juros futuros longos seguiram em alta, acompanhando o dólar: segundo o BPMoney, o DI jan/31 passou de 15,20% ao ano, refletindo a preocupação com as contas públicas. As taxas curtas ficaram estáveis depois do dado de desemprego, que veio em linha com o esperado.",
+        "No fechamento desta sexta (30/10), segundo o Estadão, o DI jan/28 terminou em 14,49% (ajuste anterior de 14,37%) e o jan/31 em 15,21% (de 15,16%). Analistas citam o risco fiscal, à espera dos nomes da equipe econômica, e a maioria das apostas passou a ver a Selic mantida em 13,75% no Copom de 4/11. Segundo Stephan Kautz, da EQI, promessas de campanha podem somar de R$ 60 bilhões a R$ 80 bilhões aos gastos de 2027."
       ],
       "cadeia": [
         "Inflação acima do teto da meta",
@@ -1107,6 +1086,10 @@
         "Para guardar dinheiro, aplicações atreladas ao CDI ou à Selic rendem bem nesse cenário"
       ],
       "fontes": [
+        {
+          "nome": "O Povo/Estadão (DI no fechamento 30/10)",
+          "url": "https://www.opovo.com.br/noticias/economia/2026/10/30/taxas-de-juros-sobem-com-maior-risco-fiscal-e-cenario-de-manutencao-da-selic.html"
+        },
         {
           "nome": "O Povo (dívida 82,9% do PIB)",
           "url": "https://www.opovo.com.br/noticias/economia/2026/10/29/divida-publica-fica-em-829-do-pib-e-deficit-soma-rs-55-bilhoes.html"
@@ -1176,17 +1159,8 @@
         "selic",
         "ipca"
       ],
-      "atualizadoEm": "2026-10-30T17:45:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "11h",
-          "texto": "Juros futuros abrem em alta em toda a curva; dívida bruta chega a 82,9% do PIB e desemprego cai a 5,2%."
-        },
-        {
-          "hora": "17h",
-          "texto": "Juros longos fecham a semana em alta, com o DI jan/31 acima de 15,20%; taxas curtas estáveis."
-        }
-      ],
+      "atualizadoEm": "2026-10-30T23:05:00-03:00",
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.44,
         "ibov": 167921.8,
@@ -1290,12 +1264,7 @@
         "dolar"
       ],
       "atualizadoEm": "2026-10-30T11:50:00-03:00",
-      "atualizacoes": [
-        {
-          "hora": "11h",
-          "texto": "Petrobras confirma que o conselho discutiu preços, mas diz que não decidiu reajuste; Brent sobe para perto de US$ 117."
-        }
-      ],
+      "atualizacoes": [],
       "referencia": {
         "dolar": 5.43,
         "ibov": 168525.83,
@@ -1503,7 +1472,7 @@
     }
   ],
   "robo": {
-    "atualizadoEm": "2026-10-30T16:28:08-03:00",
+    "atualizadoEm": "2026-10-30T20:51:21-03:00",
     "ok": [
       "BC selic",
       "BC cdi",
